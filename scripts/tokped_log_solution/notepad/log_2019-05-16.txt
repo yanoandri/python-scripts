@@ -1,0 +1,810 @@
+2019-05-16 8:00:12 - INFO --> data			: {"program_id":"78","start_time":"2019-05-15 18:00:01","end_time":"2019-05-16 08:00:00"}
+2019-05-16 8:00:12 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+08%3A00%3A00&program_id=78&start_time=2019-05-15+18%3A00%3A01
+2019-05-16 8:00:12 - INFO --> Unix-Time 	: 1557968412
+2019-05-16 8:00:12 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557968412
+2019-05-16 08:00:00
+78
+2019-05-15 18:00:01
+2019-05-16 8:00:12 - INFO --> Signature 	: c+08SYhFgaiwcqfQzkuBuF05WwY=
+2019-05-16 8:00:12 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+08%3A00%3A00&program_id=78&start_time=2019-05-15+18%3A00%3A01 Data : {"end_time":"2019-05-16 08:00:00","program_id":"78","start_time":"2019-05-15 18:00:01"}
+2019-05-16 8:00:13 - INFO -->  RECV FROM Tokopedia : {"data":[{"application_id":101488,"loan_amount":52000000,"loan_duration":24,"loan_duration_type":"Bulan","program_name":"Online Seller Financing","create_time":"2019-05-15 22:10:26","bank_name":"Investree","loan_purpose":"Modal Usaha","personal_info":{"full_name":"Sutanto","gender":"m","birth_place":"Kota Tangerang","birth_date":"16-Mei-1983","phone_number":"6281321555577","other_phone_number":"","email":"salesonline.vki@gmail.com","marital_status":"Cerai / Janda / Duda","mother_name":"Liong Lan Tjin","tkp_email":"salesonline.vki@gmail.com"},"ktp":{"ktp_no":"3671081605830009","address":{"full_address":"Jl. A Yani No.27","postal_code":"15111","rt":"002","rw":"003","province":"Banten","city":"Kota Tangerang","district":"Tangerang","ownership":"Sewa atau Kontrak","stay_period":"24"}},"npwp":"46.707.854.9-402.000","domicile":{"full_address":"Jl. Satria 4 Blok. C, No. 50, RT.9/RW.4","postal_code":"11460","rt":"09","rw":"04","province":"DKI Jakarta","city":"Jakarta Barat","district":"","ownership":"Sewa atau Kontrak","stay_period":"2"},"relative_info":{"full_name":"Nina Sari","birth_place":"Jakarta Utara","birth_date":"30-April-1980","phone_number":"081284631713","relationship":"Kakak / Adik Kandung","mother_name":""},"shop_info":{"business_sector":"Perdagangan Besar dan Eceran","business_code":"549000","economy_sector":"Perdagangan Impor Lainnya","date_start":"3-Agustus-2016","shop_type":"Hanya Online","shop_name":"North Green","shop_domain":"https://www.tokopedia.com/northgreen","open_since":"August 2016","merchant_type":"Gold Merchant","shipping_from":"Grogol","offline_address":{"full_address":"","postal_code":"","rt":"","rw":"","province":"","city":"","district":""},"description":"Senin-Sabtu 09.00 s/d 19.00, Tanggal Merah Libur ya Bossque."},"other_income_source":{"online_main":false},"previous_loan":{"type":"","total_amount":0,"installments":0,"remaining":0},"documents":{"ktp":"https://ecs7.tokopedia.net/img/microfinance/mitra-toppers/2019/5/10/2019_05_10_232456-bv5jzu_blob","verificationPhoto":"https://ecs7.tokopedia.net/img/microfinance/mitra-toppers/2019/5/10/2019_05_10_232543-mw2ioh_IMG_20190510_231139.jpg","familyCard":"https://ecs7.tokopedia.net/img/microfinance/mitra-toppers/2019/5/10/2019_05_10_234024-odpz25_IMG_20170515_074658 1.jpg"},"transaction_history":[80,24,8,6,3,8,1,0,0,0,0,0],"cashflow_history":[12908000,4070000,2770000,950000,570000,1545000,185000,0,0,0,0,0],"moderation_count":0,"total_transaction":130,"complaint_count":0,"successful_rate":1,"six_months_average_transaction":21.5,"reputation_count":{"positive":87,"neutral":1,"negative":0},"bank_account":[{"bank_name":"PT. BCA (BANK CENTRAL ASIA) TBK","account_owner":"Sutanto","account_number":"5910152761","withdrawal":29}],"external_shop_info":{"shopee":{"userid":106319097,"username":"vieroka","description":"Senin-Sabtu 08.00 s/d 15.00\nTanggal Merah Libur.\n\nJl. Satria 4 No. 50, RT.9/RW.4\nJelambar, Grogol Petamburan\nJakarta Barat 11460","name":"Viero Karey","place":"KOTA JAKARTA BARAT - GROGOL PETAMBURAN, DKI JAKARTA, ID","show_official_shop_label":false,"is_shopee_verified":false,"response_rate":"95%","response_time":2628,"total_avg_star":4.666667,"rating_bad":1,"rating_normal":6,"rating_good":90,"total_rating":97,"item_count":16,"ctime":1542649497,"join_at":"2018-11-20T00:44:57+07:00","last_active_time":1557927989,"last_active_at":"2019-05-15T20:46:29+07:00","preparation_time":25630,"following_count":0,"follower_count":5},"bukalapak":{"id":9567091,"username":"non4m3","lapak_desc":"Senin-Sabtu 08.00 s/d 18.00, Tanggal Merah Libur","lapak_name":"","name":"Viero Karey Indonesia","gender":"Laki-laki","address":{"province":"DKI Jakarta","city":"Jakarta Barat"},"level":"Pedagang","level_badge_url":"https://www.bukalapak.com/images/badge/seller/xhdpi/level-2.png","verified_user":false,"official":false,"brand":false,"top_merchant":false,"is_seller":true,"premium_user":false,"premium_package":"","delivery_time":"6 jam","rejection":{"rejected":0,"recent_trans":32,"success":32,"percentage":"-"},"feedbacks":{"positive":58,"negative":0,"total":58,"percentage":"100%"},"joined_at":"2016-01-20T13:39:42.000+07:00","join_at":"2016-01-20T13:39:42Z","last_login":"2019-05-15T20:04:49.000+07:00","last_login_at":"2019-05-15T20:04:49Z","subscriber_amount":4}},"face_match":{"status":"No Face detected from the uploaded pictures","similarity":0},"confidence":{"phone":1,"address":0}}],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 8:00:13 - INFO --> request : {"partnership_id":1,"partnership_name":"Tokopedia","applicant_id":101488,"mobile_number":"6281321555577","password":"R478365KHSFDJtre","confirm_password":"R478365KHSFDJtre","agree_subscribe":"Y","agree_privacy":"Y","email_address":"salesonline.vki@gmail.com","salutation":"Mr.","full_name":"Sutanto","ecommerce_name":[{"ecommerce_id":4,"ecommerce_name":"Tokopedia","link_toko":"https:\/\/www.tokopedia.com\/northgreen","nama_toko":"North Green"},{"ecommerce_id":3,"ecommerce_name":"shopee","link_toko":"https:\/\/www.tokopedia.com\/northgreen","nama_toko":"North Green"}],"epd_lama_berjualan_online":"2016-08-01","epd_nilai_rata_penjualan":21500000,"epd_company_type":4,"seller_province":"Banten","seller_kab_kot":"Kota Tangerang","rd_agree_terms":"Y","shipping_from":"Grogol","loan_type1":"Y","loan_type2":"","eld_mlt_id":1,"bpd_company_bank_name_id":2,"bpd_company_bank_account_name":"Sutanto","bpd_company_bank_number":"5910152761","domisili_same_as_ktp":"","bpd_dob":"1983-05-16","bpd_full_name":"Sutanto","bpd_domicile_province":"DKI Jakarta","bpd_domicile_kab_kot":"Jakarta Barat","bpd_domicile_kecamatan":"","bpd_domicile_kelurahan":"","bpd_domicile_address":"Jl. Satria 4 Blok. C, No. 50, RT.9\/RW.4","bpd_domicile_postal_code":"11460","bpd_domicile_phone":"6281321555577","epd_offline_store_address":"","epd_offline_store_province":"","epd_offline_store_kab_kot":"","epd_offline_store_kecamatan":"","epd_offline_store_kelurahan":"","epd_offline_store_postal_code":"","bpd_ktp_expired":"","bpd_ktp":"3671081605830009","bpd_npwp_no":"46.707.854.9-402.000","bpd_company_desc":"Senin-Sabtu 09.00 s\/d 19.00, Tanggal Merah Libur ya Bossque.","bpd_pob":"Kota Tangerang","right_data":"Y","bpd_company_address":"Jl. A Yani No.27","bpd_company_postal_code":"15111","bpd_company_kecamatan":"Tangerang","bpd_company_kab_kot":"Kota Tangerang","bpd_company_province":"Banten","bpd_company_kelurahan":"","transaction_history":[80,24,8,6,3,8,1,0,0,0,0,0],"cashflow_history":[12908000,4070000,2770000,950000,570000,1545000,185000,0,0,0,0,0],"ktp_image":"https:\/\/ecs7.tokopedia.net\/img\/microfinance\/mitra-toppers\/2019\/5\/10\/2019_05_10_232456-bv5jzu_blob","ktp_selfie":"https:\/\/ecs7.tokopedia.net\/img\/microfinance\/mitra-toppers\/2019\/5\/10\/2019_05_10_232543-mw2ioh_IMG_20190510_231139.jpg","cap_amount":52000000,"eld_bank_statement":"","eld_rm_name":"","eld_loan_tenor":24,"loan_osf":"Online Seller Financing","eld_loan_reg_date":"2019-05-15 22:10:26"}
+2019-05-16 8:00:13 - INFO --> header_response : {"url":"https:\/\/mobi.investree.id\/mobile\/v1\/partner\/ecommerce\/registration_all","content_type":"application\/json","http_code":200,"header_size":803,"request_size":209,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":0.232639,"namelookup_time":0.000405,"connect_time":0.000779,"pretransfer_time":0.009424,"size_upload":2458,"size_download":109,"speed_download":468,"speed_upload":10565,"download_content_length":-1,"upload_content_length":2458,"starttransfer_time":0.010102,"redirect_time":0,"certinfo":[],"primary_ip":"116.206.196.175","redirect_url":""}
+2019-05-16 8:00:13 - INFO --> response : "{\"ResponseCode\":\"01\",\"ResponseDescription\":\"User dalam proses In Review, Disburse, atau In Funding\"}"
+2019-05-16 8:00:18 - INFO --> data			: {"program_id":"98","start_time":"2019-05-15 18:00:01","end_time":"2019-05-16 08:00:00"}
+2019-05-16 8:00:18 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+08%3A00%3A00&program_id=98&start_time=2019-05-15+18%3A00%3A01
+2019-05-16 8:00:18 - INFO --> Unix-Time 	: 1557968418
+2019-05-16 8:00:18 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557968418
+2019-05-16 08:00:00
+98
+2019-05-15 18:00:01
+2019-05-16 8:00:18 - INFO --> Signature 	: WmTILIzADGw+fGZTg2QQ6e2zkPI=
+2019-05-16 8:00:18 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+08%3A00%3A00&program_id=98&start_time=2019-05-15+18%3A00%3A01 Data : {"end_time":"2019-05-16 08:00:00","program_id":"98","start_time":"2019-05-15 18:00:01"}
+2019-05-16 8:00:18 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 8:00:23 - INFO --> data			: {"program_id":"99","start_time":"2019-05-15 18:00:01","end_time":"2019-05-16 08:00:00"}
+2019-05-16 8:00:23 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+08%3A00%3A00&program_id=99&start_time=2019-05-15+18%3A00%3A01
+2019-05-16 8:00:23 - INFO --> Unix-Time 	: 1557968423
+2019-05-16 8:00:23 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557968423
+2019-05-16 08:00:00
+99
+2019-05-15 18:00:01
+2019-05-16 8:00:23 - INFO --> Signature 	: hFyuxRUboyU032zADsUcRwVFYSA=
+2019-05-16 8:00:23 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+08%3A00%3A00&program_id=99&start_time=2019-05-15+18%3A00%3A01 Data : {"end_time":"2019-05-16 08:00:00","program_id":"99","start_time":"2019-05-15 18:00:01"}
+2019-05-16 8:00:23 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 8:10:06 - INFO --> data			: {"program_id":"78","start_time":"2019-05-15 18:00:01","end_time":"2019-05-16 08:00:00"}
+2019-05-16 8:10:06 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+08%3A00%3A00&program_id=78&start_time=2019-05-15+18%3A00%3A01
+2019-05-16 8:10:06 - INFO --> Unix-Time 	: 1557969006
+2019-05-16 8:10:06 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557969006
+2019-05-16 08:00:00
+78
+2019-05-15 18:00:01
+2019-05-16 8:10:06 - INFO --> Signature 	: 4bIWunlFbro+5Nw14tEZ+30JDAI=
+2019-05-16 8:10:06 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+08%3A00%3A00&program_id=78&start_time=2019-05-15+18%3A00%3A01 Data : {"end_time":"2019-05-16 08:00:00","program_id":"78","start_time":"2019-05-15 18:00:01"}
+2019-05-16 8:10:06 - INFO -->  RECV FROM Tokopedia : {"data":[{"application_id":101488,"loan_amount":52000000,"loan_duration":24,"loan_duration_type":"Bulan","program_name":"Online Seller Financing","create_time":"2019-05-15 22:10:26","bank_name":"Investree","loan_purpose":"Modal Usaha","personal_info":{"full_name":"Sutanto","gender":"m","birth_place":"Kota Tangerang","birth_date":"16-Mei-1983","phone_number":"6281321555577","other_phone_number":"","email":"salesonline.vki@gmail.com","marital_status":"Cerai / Janda / Duda","mother_name":"Liong Lan Tjin","tkp_email":"salesonline.vki@gmail.com"},"ktp":{"ktp_no":"3671081605830009","address":{"full_address":"Jl. A Yani No.27","postal_code":"15111","rt":"002","rw":"003","province":"Banten","city":"Kota Tangerang","district":"Tangerang","ownership":"Sewa atau Kontrak","stay_period":"24"}},"npwp":"46.707.854.9-402.000","domicile":{"full_address":"Jl. Satria 4 Blok. C, No. 50, RT.9/RW.4","postal_code":"11460","rt":"09","rw":"04","province":"DKI Jakarta","city":"Jakarta Barat","district":"","ownership":"Sewa atau Kontrak","stay_period":"2"},"relative_info":{"full_name":"Nina Sari","birth_place":"Jakarta Utara","birth_date":"30-April-1980","phone_number":"081284631713","relationship":"Kakak / Adik Kandung","mother_name":""},"shop_info":{"business_sector":"Perdagangan Besar dan Eceran","business_code":"549000","economy_sector":"Perdagangan Impor Lainnya","date_start":"3-Agustus-2016","shop_type":"Hanya Online","shop_name":"North Green","shop_domain":"https://www.tokopedia.com/northgreen","open_since":"August 2016","merchant_type":"Gold Merchant","shipping_from":"Grogol","offline_address":{"full_address":"","postal_code":"","rt":"","rw":"","province":"","city":"","district":""},"description":"Senin-Sabtu 09.00 s/d 19.00, Tanggal Merah Libur ya Bossque."},"other_income_source":{"online_main":false},"previous_loan":{"type":"","total_amount":0,"installments":0,"remaining":0},"documents":{"ktp":"https://ecs7.tokopedia.net/img/microfinance/mitra-toppers/2019/5/10/2019_05_10_232456-bv5jzu_blob","verificationPhoto":"https://ecs7.tokopedia.net/img/microfinance/mitra-toppers/2019/5/10/2019_05_10_232543-mw2ioh_IMG_20190510_231139.jpg","familyCard":"https://ecs7.tokopedia.net/img/microfinance/mitra-toppers/2019/5/10/2019_05_10_234024-odpz25_IMG_20170515_074658 1.jpg"},"transaction_history":[80,24,8,6,3,8,1,0,0,0,0,0],"cashflow_history":[12908000,4070000,2770000,950000,570000,1545000,185000,0,0,0,0,0],"moderation_count":0,"total_transaction":130,"complaint_count":0,"successful_rate":1,"six_months_average_transaction":21.5,"reputation_count":{"positive":87,"neutral":1,"negative":0},"bank_account":[{"bank_name":"PT. BCA (BANK CENTRAL ASIA) TBK","account_owner":"Sutanto","account_number":"5910152761","withdrawal":29}],"external_shop_info":{"shopee":{"userid":106319097,"username":"vieroka","description":"Senin-Sabtu 08.00 s/d 15.00\nTanggal Merah Libur.\n\nJl. Satria 4 No. 50, RT.9/RW.4\nJelambar, Grogol Petamburan\nJakarta Barat 11460","name":"Viero Karey","place":"KOTA JAKARTA BARAT - GROGOL PETAMBURAN, DKI JAKARTA, ID","show_official_shop_label":false,"is_shopee_verified":false,"response_rate":"95%","response_time":2628,"total_avg_star":4.666667,"rating_bad":1,"rating_normal":6,"rating_good":90,"total_rating":97,"item_count":16,"ctime":1542649497,"join_at":"2018-11-20T00:44:57+07:00","last_active_time":1557927989,"last_active_at":"2019-05-15T20:46:29+07:00","preparation_time":25630,"following_count":0,"follower_count":5},"bukalapak":{"id":9567091,"username":"non4m3","lapak_desc":"Senin-Sabtu 08.00 s/d 18.00, Tanggal Merah Libur","lapak_name":"","name":"Viero Karey Indonesia","gender":"Laki-laki","address":{"province":"DKI Jakarta","city":"Jakarta Barat"},"level":"Pedagang","level_badge_url":"https://www.bukalapak.com/images/badge/seller/xhdpi/level-2.png","verified_user":false,"official":false,"brand":false,"top_merchant":false,"is_seller":true,"premium_user":false,"premium_package":"","delivery_time":"6 jam","rejection":{"rejected":0,"recent_trans":32,"success":32,"percentage":"-"},"feedbacks":{"positive":58,"negative":0,"total":58,"percentage":"100%"},"joined_at":"2016-01-20T13:39:42.000+07:00","join_at":"2016-01-20T13:39:42Z","last_login":"2019-05-15T20:04:49.000+07:00","last_login_at":"2019-05-15T20:04:49Z","subscriber_amount":4}},"face_match":{"status":"No Face detected from the uploaded pictures","similarity":0},"confidence":{"phone":1,"address":0}}],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 8:10:06 - INFO --> request : {"partnership_id":1,"partnership_name":"Tokopedia","applicant_id":101488,"mobile_number":"6281321555577","password":"R478365KHSFDJtre","confirm_password":"R478365KHSFDJtre","agree_subscribe":"Y","agree_privacy":"Y","email_address":"salesonline.vki@gmail.com","salutation":"Mr.","full_name":"Sutanto","ecommerce_name":[{"ecommerce_id":4,"ecommerce_name":"Tokopedia","link_toko":"https:\/\/www.tokopedia.com\/northgreen","nama_toko":"North Green"},{"ecommerce_id":3,"ecommerce_name":"shopee","link_toko":"https:\/\/www.tokopedia.com\/northgreen","nama_toko":"North Green"}],"epd_lama_berjualan_online":"2016-08-01","epd_nilai_rata_penjualan":21500000,"epd_company_type":4,"seller_province":"Banten","seller_kab_kot":"Kota Tangerang","rd_agree_terms":"Y","shipping_from":"Grogol","loan_type1":"Y","loan_type2":"","eld_mlt_id":1,"bpd_company_bank_name_id":2,"bpd_company_bank_account_name":"Sutanto","bpd_company_bank_number":"5910152761","domisili_same_as_ktp":"","bpd_dob":"1983-05-16","bpd_full_name":"Sutanto","bpd_domicile_province":"DKI Jakarta","bpd_domicile_kab_kot":"Jakarta Barat","bpd_domicile_kecamatan":"","bpd_domicile_kelurahan":"","bpd_domicile_address":"Jl. Satria 4 Blok. C, No. 50, RT.9\/RW.4","bpd_domicile_postal_code":"11460","bpd_domicile_phone":"6281321555577","epd_offline_store_address":"","epd_offline_store_province":"","epd_offline_store_kab_kot":"","epd_offline_store_kecamatan":"","epd_offline_store_kelurahan":"","epd_offline_store_postal_code":"","bpd_ktp_expired":"","bpd_ktp":"3671081605830009","bpd_npwp_no":"46.707.854.9-402.000","bpd_company_desc":"Senin-Sabtu 09.00 s\/d 19.00, Tanggal Merah Libur ya Bossque.","bpd_pob":"Kota Tangerang","right_data":"Y","bpd_company_address":"Jl. A Yani No.27","bpd_company_postal_code":"15111","bpd_company_kecamatan":"Tangerang","bpd_company_kab_kot":"Kota Tangerang","bpd_company_province":"Banten","bpd_company_kelurahan":"","transaction_history":[80,24,8,6,3,8,1,0,0,0,0,0],"cashflow_history":[12908000,4070000,2770000,950000,570000,1545000,185000,0,0,0,0,0],"ktp_image":"https:\/\/ecs7.tokopedia.net\/img\/microfinance\/mitra-toppers\/2019\/5\/10\/2019_05_10_232456-bv5jzu_blob","ktp_selfie":"https:\/\/ecs7.tokopedia.net\/img\/microfinance\/mitra-toppers\/2019\/5\/10\/2019_05_10_232543-mw2ioh_IMG_20190510_231139.jpg","cap_amount":52000000,"eld_bank_statement":"","eld_rm_name":"","eld_loan_tenor":24,"loan_osf":"Online Seller Financing","eld_loan_reg_date":"2019-05-15 22:10:26"}
+2019-05-16 8:10:06 - INFO --> header_response : {"url":"https:\/\/mobi.investree.id\/mobile\/v1\/partner\/ecommerce\/registration_all","content_type":"application\/json","http_code":200,"header_size":797,"request_size":209,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":0.232759,"namelookup_time":0.000468,"connect_time":0.000849,"pretransfer_time":0.011119,"size_upload":2458,"size_download":109,"speed_download":468,"speed_upload":10560,"download_content_length":-1,"upload_content_length":2458,"starttransfer_time":0.01149,"redirect_time":0,"certinfo":[],"primary_ip":"116.206.196.175","redirect_url":""}
+2019-05-16 8:10:06 - INFO --> response : "{\"ResponseCode\":\"01\",\"ResponseDescription\":\"User dalam proses In Review, Disburse, atau In Funding\"}"
+2019-05-16 8:10:11 - INFO --> data			: {"program_id":"98","start_time":"2019-05-15 18:00:01","end_time":"2019-05-16 08:00:00"}
+2019-05-16 8:10:11 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+08%3A00%3A00&program_id=98&start_time=2019-05-15+18%3A00%3A01
+2019-05-16 8:10:11 - INFO --> Unix-Time 	: 1557969011
+2019-05-16 8:10:11 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557969011
+2019-05-16 08:00:00
+98
+2019-05-15 18:00:01
+2019-05-16 8:10:11 - INFO --> Signature 	: lFUi/WaVNAQljy85Kvl60Y60Sls=
+2019-05-16 8:10:11 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+08%3A00%3A00&program_id=98&start_time=2019-05-15+18%3A00%3A01 Data : {"end_time":"2019-05-16 08:00:00","program_id":"98","start_time":"2019-05-15 18:00:01"}
+2019-05-16 8:10:11 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 8:10:16 - INFO --> data			: {"program_id":"99","start_time":"2019-05-15 18:00:01","end_time":"2019-05-16 08:00:00"}
+2019-05-16 8:10:16 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+08%3A00%3A00&program_id=99&start_time=2019-05-15+18%3A00%3A01
+2019-05-16 8:10:16 - INFO --> Unix-Time 	: 1557969016
+2019-05-16 8:10:16 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557969016
+2019-05-16 08:00:00
+99
+2019-05-15 18:00:01
+2019-05-16 8:10:16 - INFO --> Signature 	: OO2AIjYvd1GGg1Kcx+zBXPyAn9w=
+2019-05-16 8:10:16 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+08%3A00%3A00&program_id=99&start_time=2019-05-15+18%3A00%3A01 Data : {"end_time":"2019-05-16 08:00:00","program_id":"99","start_time":"2019-05-15 18:00:01"}
+2019-05-16 8:10:16 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 9:00:12 - INFO --> data			: {"program_id":"78","start_time":"2019-05-16 08:00:01","end_time":"2019-05-16 09:00:00"}
+2019-05-16 9:00:12 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+09%3A00%3A00&program_id=78&start_time=2019-05-16+08%3A00%3A01
+2019-05-16 9:00:12 - INFO --> Unix-Time 	: 1557972012
+2019-05-16 9:00:12 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557972012
+2019-05-16 09:00:00
+78
+2019-05-16 08:00:01
+2019-05-16 9:00:12 - INFO --> Signature 	: Frpk0UwXBSFw4s+gIkKDR742gpk=
+2019-05-16 9:00:12 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+09%3A00%3A00&program_id=78&start_time=2019-05-16+08%3A00%3A01 Data : {"end_time":"2019-05-16 09:00:00","program_id":"78","start_time":"2019-05-16 08:00:01"}
+2019-05-16 9:00:13 - INFO -->  RECV FROM Tokopedia : {"data":[{"application_id":101523,"loan_amount":10000000,"loan_duration":3,"loan_duration_type":"Bulan","program_name":"Online Seller Financing","create_time":"2019-05-16 08:54:49","bank_name":"Investree","loan_purpose":"Modal Usaha","personal_info":{"full_name":"Syaikhul Haadi","gender":"m","birth_place":"Kota Surabaya","birth_date":"23-Maret-1989","phone_number":"6289608896389","other_phone_number":"085791231313","email":"ikawerdani@gmail.com","marital_status":"","mother_name":"Suparmi","tkp_email":"ikawerdani@gmail.com"},"ktp":{"ktp_no":"3578032303890003","address":{"full_address":"Rungkut Lor Rl.i-c/25","postal_code":"60295","rt":"003","rw":"011","province":"Jawa Timur","city":"Kota Surabaya","district":"Rungkut","ownership":"Keluarga","stay_period":"2856"}},"npwp":"98.551.002.3-615.000","domicile":{"full_address":"","postal_code":"","rt":"","rw":"","province":"","city":"","district":""},"relative_info":{"full_name":"Ika diana werdani","birth_place":"Kota Kediri","birth_date":"31-Mei-1995","phone_number":"089608896389","relationship":"Suami / Istri","mother_name":""},"shop_info":{"business_sector":"Perdagangan Besar dan Eceran","business_code":"543900","economy_sector":"Perdagangan Impor Barang-barang Keperluan Rumah Tangga lainnya","date_start":"5-Oktober-2016","shop_type":"Hanya Online","shop_name":"aadisashop","shop_domain":"https://www.tokopedia.com/aadisashop","open_since":"June 2017","merchant_type":"Regular Merchant","shipping_from":"Rungkut","offline_address":{"full_address":"","postal_code":"","rt":"","rw":"","province":"","city":"","district":""},"description":"murah dan original"},"other_income_source":{"online_main":false,"occupation":"Pegawai Negeri","company":"UPT P2BJ","monthly_income":10000000},"previous_loan":{"type":"","total_amount":0,"installments":0,"remaining":0},"documents":{"ktp":"https://ecs7.tokopedia.net/img/microfinance/mitra-toppers/2019/5/16/2019_05_16_081619-a63r63_IMG-20190423-WA0000.jpg","verificationPhoto":"https://ecs7.tokopedia.net/img/microfinance/mitra-toppers/2019/5/16/2019_05_16_081647-3n3w9n_IMG-20190423-WA0001.jpg","familyCard":"https://ecs7.tokopedia.net/img/microfinance/mitra-toppers/2019/5/16/2019_05_16_083140-tos6ek_IMG-20190516-WA0002.jpg"},"transaction_history":[68,131,64,62,35,42,29,21,23,16,10,4],"cashflow_history":[16200000,25829800,13834000,13854000,8056000,8042000,5572400,4243500,4509500,3095400,2268300,376000],"moderation_count":0,"total_transaction":505,"complaint_count":0,"successful_rate":0.9778002018163471,"six_months_average_transaction":67,"reputation_count":{"positive":430,"neutral":16,"negative":1},"bank_account":[{"bank_name":"PT. BANK NEGARA INDONESIA (BNI) (PERSERO)","account_owner":"Syaikhul Haadi","account_number":"0761071102","withdrawal":0},{"bank_name":"PT. BANK NEGARA INDONESIA (BNI) (PERSERO)","account_owner":"Sdri Ika Diana Werdani","account_number":"0305106569","withdrawal":195}],"external_shop_info":{"shopee":{"userid":120242014,"username":"luminesya3","description":"hobby menjual","name":"aadisashop3","place":"KOTA SURABAYA - RUNGKUT, JAWA TIMUR, ID","show_official_shop_label":false,"is_shopee_verified":true,"response_rate":"94%","response_time":16143,"total_avg_star":4.854749,"rating_bad":1,"rating_normal":5,"rating_good":719,"total_rating":725,"item_count":15,"ctime":1547391043,"join_at":"2019-01-13T21:50:43+07:00","last_active_time":1557969275,"last_active_at":"2019-05-16T08:14:35+07:00","preparation_time":65127,"following_count":2,"follower_count":153},"bukalapak":{"id":0,"username":"","lapak_desc":"","lapak_name":"","name":"","gender":"","address":{"province":"","city":""},"level":"","level_badge_url":"","verified_user":false,"official":false,"brand":false,"top_merchant":false,"is_seller":false,"premium_user":false,"premium_package":"","delivery_time":"","rejection":{"rejected":0,"recent_trans":0,"success":0,"percentage":"-"},"feedbacks":{"positive":0,"negative":0,"total":0,"percentage":"-"},"joined_at":"","join_at":"0001-01-01T00:00:00Z","last_login":"","last_login_at":"0001-01-01T00:00:00Z","subscriber_amount":0}},"face_match":{"status":"OK","similarity":78.7091117794231},"confidence":{"phone":1,"address":0}}],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 9:00:22 - INFO --> request : {"partnership_id":1,"partnership_name":"Tokopedia","applicant_id":101523,"mobile_number":"6289608896389","password":"R478365KHSFDJtre","confirm_password":"R478365KHSFDJtre","agree_subscribe":"Y","agree_privacy":"Y","email_address":"ikawerdani@gmail.com","salutation":"Mr.","full_name":"Syaikhul Haadi","ecommerce_name":[{"ecommerce_id":4,"ecommerce_name":"Tokopedia","link_toko":"https:\/\/www.tokopedia.com\/aadisashop","nama_toko":"aadisashop"},{"ecommerce_id":3,"ecommerce_name":"shopee","link_toko":"https:\/\/www.tokopedia.com\/aadisashop","nama_toko":"aadisashop"}],"epd_lama_berjualan_online":"2017-06-01","epd_nilai_rata_penjualan":67000000,"epd_company_type":4,"seller_province":"Jawa Timur","seller_kab_kot":"Kota Surabaya","rd_agree_terms":"Y","shipping_from":"Rungkut","loan_type1":"Y","loan_type2":"","eld_mlt_id":1,"bpd_company_bank_name_id":"PT. BANK NEGARA INDONESIA (BNI) (PERSERO)","bpd_company_bank_account_name":"Sdri Ika Diana Werdani","bpd_company_bank_number":"0305106569","domisili_same_as_ktp":"","bpd_dob":"1989-03-23","bpd_full_name":"Syaikhul Haadi","bpd_domicile_province":"","bpd_domicile_kab_kot":"","bpd_domicile_kecamatan":"","bpd_domicile_kelurahan":"","bpd_domicile_address":"","bpd_domicile_postal_code":"","bpd_domicile_phone":"6289608896389","epd_offline_store_address":"","epd_offline_store_province":"","epd_offline_store_kab_kot":"","epd_offline_store_kecamatan":"","epd_offline_store_kelurahan":"","epd_offline_store_postal_code":"","bpd_ktp_expired":"","bpd_ktp":"3578032303890003","bpd_npwp_no":"98.551.002.3-615.000","bpd_company_desc":"murah dan original","bpd_pob":"Kota Surabaya","right_data":"Y","bpd_company_address":"Rungkut Lor Rl.i-c\/25","bpd_company_postal_code":"60295","bpd_company_kecamatan":"Rungkut","bpd_company_kab_kot":"Kota Surabaya","bpd_company_province":"Jawa Timur","bpd_company_kelurahan":"","transaction_history":[68,131,64,62,35,42,29,21,23,16,10,4],"cashflow_history":[16200000,25829800,13834000,13854000,8056000,8042000,5572400,4243500,4509500,3095400,2268300,376000],"ktp_image":"https:\/\/ecs7.tokopedia.net\/img\/microfinance\/mitra-toppers\/2019\/5\/16\/2019_05_16_081619-a63r63_IMG-20190423-WA0000.jpg","ktp_selfie":"https:\/\/ecs7.tokopedia.net\/img\/microfinance\/mitra-toppers\/2019\/5\/16\/2019_05_16_081647-3n3w9n_IMG-20190423-WA0001.jpg","cap_amount":10000000,"eld_bank_statement":"","eld_rm_name":"","eld_loan_tenor":3,"loan_osf":"Online Seller Financing","eld_loan_reg_date":"2019-05-16 08:54:49"}
+2019-05-16 9:00:22 - INFO --> header_response : {"url":"https:\/\/mobi.investree.id\/mobile\/v1\/partner\/ecommerce\/registration_all","content_type":"application\/json","http_code":200,"header_size":803,"request_size":209,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":9.255855,"namelookup_time":0.000554,"connect_time":0.000953,"pretransfer_time":0.020251,"size_upload":2483,"size_download":101,"speed_download":10,"speed_upload":268,"download_content_length":-1,"upload_content_length":2483,"starttransfer_time":0.020598,"redirect_time":0,"certinfo":[],"primary_ip":"116.206.196.175","redirect_url":""}
+2019-05-16 9:00:22 - INFO --> response : "{\"status\":\"ERROR\",\"data\":null,\"meta\":{\"code\":500,\"message\":\"Data is exist\",\"debugInfo\":\"\"}}"
+2019-05-16 9:00:27 - INFO --> data			: {"program_id":"98","start_time":"2019-05-16 08:00:01","end_time":"2019-05-16 09:00:00"}
+2019-05-16 9:00:27 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+09%3A00%3A00&program_id=98&start_time=2019-05-16+08%3A00%3A01
+2019-05-16 9:00:27 - INFO --> Unix-Time 	: 1557972027
+2019-05-16 9:00:27 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557972027
+2019-05-16 09:00:00
+98
+2019-05-16 08:00:01
+2019-05-16 9:00:27 - INFO --> Signature 	: eHoQ2R/NUAbWVLdAr8iWcauAgM4=
+2019-05-16 9:00:27 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+09%3A00%3A00&program_id=98&start_time=2019-05-16+08%3A00%3A01 Data : {"end_time":"2019-05-16 09:00:00","program_id":"98","start_time":"2019-05-16 08:00:01"}
+2019-05-16 9:00:27 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 9:00:32 - INFO --> data			: {"program_id":"99","start_time":"2019-05-16 08:00:01","end_time":"2019-05-16 09:00:00"}
+2019-05-16 9:00:32 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+09%3A00%3A00&program_id=99&start_time=2019-05-16+08%3A00%3A01
+2019-05-16 9:00:32 - INFO --> Unix-Time 	: 1557972032
+2019-05-16 9:00:32 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557972032
+2019-05-16 09:00:00
+99
+2019-05-16 08:00:01
+2019-05-16 9:00:32 - INFO --> Signature 	: MhCcdi1SBejr7qq1y7CjehwOjHk=
+2019-05-16 9:00:32 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+09%3A00%3A00&program_id=99&start_time=2019-05-16+08%3A00%3A01 Data : {"end_time":"2019-05-16 09:00:00","program_id":"99","start_time":"2019-05-16 08:00:01"}
+2019-05-16 9:00:32 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 9:10:05 - INFO --> data			: {"program_id":"78","start_time":"2019-05-16 08:00:01","end_time":"2019-05-16 09:00:00"}
+2019-05-16 9:10:05 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+09%3A00%3A00&program_id=78&start_time=2019-05-16+08%3A00%3A01
+2019-05-16 9:10:05 - INFO --> Unix-Time 	: 1557972605
+2019-05-16 9:10:05 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557972605
+2019-05-16 09:00:00
+78
+2019-05-16 08:00:01
+2019-05-16 9:10:05 - INFO --> Signature 	: WktsqFliJeoIn+B0eVwMKHH3knE=
+2019-05-16 9:10:05 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+09%3A00%3A00&program_id=78&start_time=2019-05-16+08%3A00%3A01 Data : {"end_time":"2019-05-16 09:00:00","program_id":"78","start_time":"2019-05-16 08:00:01"}
+2019-05-16 9:10:05 - INFO -->  RECV FROM Tokopedia : {"data":[{"application_id":101523,"loan_amount":10000000,"loan_duration":3,"loan_duration_type":"Bulan","program_name":"Online Seller Financing","create_time":"2019-05-16 08:54:49","bank_name":"Investree","loan_purpose":"Modal Usaha","personal_info":{"full_name":"Syaikhul Haadi","gender":"m","birth_place":"Kota Surabaya","birth_date":"23-Maret-1989","phone_number":"6289608896389","other_phone_number":"085791231313","email":"ikawerdani@gmail.com","marital_status":"","mother_name":"Suparmi","tkp_email":"ikawerdani@gmail.com"},"ktp":{"ktp_no":"3578032303890003","address":{"full_address":"Rungkut Lor Rl.i-c/25","postal_code":"60295","rt":"003","rw":"011","province":"Jawa Timur","city":"Kota Surabaya","district":"Rungkut","ownership":"Keluarga","stay_period":"2856"}},"npwp":"98.551.002.3-615.000","domicile":{"full_address":"","postal_code":"","rt":"","rw":"","province":"","city":"","district":""},"relative_info":{"full_name":"Ika diana werdani","birth_place":"Kota Kediri","birth_date":"31-Mei-1995","phone_number":"089608896389","relationship":"Suami / Istri","mother_name":""},"shop_info":{"business_sector":"Perdagangan Besar dan Eceran","business_code":"543900","economy_sector":"Perdagangan Impor Barang-barang Keperluan Rumah Tangga lainnya","date_start":"5-Oktober-2016","shop_type":"Hanya Online","shop_name":"aadisashop","shop_domain":"https://www.tokopedia.com/aadisashop","open_since":"June 2017","merchant_type":"Regular Merchant","shipping_from":"Rungkut","offline_address":{"full_address":"","postal_code":"","rt":"","rw":"","province":"","city":"","district":""},"description":"murah dan original"},"other_income_source":{"online_main":false,"occupation":"Pegawai Negeri","company":"UPT P2BJ","monthly_income":10000000},"previous_loan":{"type":"","total_amount":0,"installments":0,"remaining":0},"documents":{"ktp":"https://ecs7.tokopedia.net/img/microfinance/mitra-toppers/2019/5/16/2019_05_16_081619-a63r63_IMG-20190423-WA0000.jpg","verificationPhoto":"https://ecs7.tokopedia.net/img/microfinance/mitra-toppers/2019/5/16/2019_05_16_081647-3n3w9n_IMG-20190423-WA0001.jpg","familyCard":"https://ecs7.tokopedia.net/img/microfinance/mitra-toppers/2019/5/16/2019_05_16_083140-tos6ek_IMG-20190516-WA0002.jpg"},"transaction_history":[68,131,64,62,35,42,29,21,23,16,10,4],"cashflow_history":[16200000,25829800,13834000,13854000,8056000,8042000,5572400,4243500,4509500,3095400,2268300,376000],"moderation_count":0,"total_transaction":505,"complaint_count":0,"successful_rate":0.9778002018163471,"six_months_average_transaction":67,"reputation_count":{"positive":430,"neutral":16,"negative":1},"bank_account":[{"bank_name":"PT. BANK NEGARA INDONESIA (BNI) (PERSERO)","account_owner":"Syaikhul Haadi","account_number":"0761071102","withdrawal":0},{"bank_name":"PT. BANK NEGARA INDONESIA (BNI) (PERSERO)","account_owner":"Sdri Ika Diana Werdani","account_number":"0305106569","withdrawal":195}],"external_shop_info":{"shopee":{"userid":120242014,"username":"luminesya3","description":"hobby menjual","name":"aadisashop3","place":"KOTA SURABAYA - RUNGKUT, JAWA TIMUR, ID","show_official_shop_label":false,"is_shopee_verified":true,"response_rate":"94%","response_time":16143,"total_avg_star":4.854749,"rating_bad":1,"rating_normal":5,"rating_good":719,"total_rating":725,"item_count":15,"ctime":1547391043,"join_at":"2019-01-13T21:50:43+07:00","last_active_time":1557969275,"last_active_at":"2019-05-16T08:14:35+07:00","preparation_time":65127,"following_count":2,"follower_count":153},"bukalapak":{"id":0,"username":"","lapak_desc":"","lapak_name":"","name":"","gender":"","address":{"province":"","city":""},"level":"","level_badge_url":"","verified_user":false,"official":false,"brand":false,"top_merchant":false,"is_seller":false,"premium_user":false,"premium_package":"","delivery_time":"","rejection":{"rejected":0,"recent_trans":0,"success":0,"percentage":"-"},"feedbacks":{"positive":0,"negative":0,"total":0,"percentage":"-"},"joined_at":"","join_at":"0001-01-01T00:00:00Z","last_login":"","last_login_at":"0001-01-01T00:00:00Z","subscriber_amount":0}},"face_match":{"status":"OK","similarity":78.7091117794231},"confidence":{"phone":1,"address":0}}],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 9:10:10 - INFO --> request : {"partnership_id":1,"partnership_name":"Tokopedia","applicant_id":101523,"mobile_number":"6289608896389","password":"R478365KHSFDJtre","confirm_password":"R478365KHSFDJtre","agree_subscribe":"Y","agree_privacy":"Y","email_address":"ikawerdani@gmail.com","salutation":"Mr.","full_name":"Syaikhul Haadi","ecommerce_name":[{"ecommerce_id":4,"ecommerce_name":"Tokopedia","link_toko":"https:\/\/www.tokopedia.com\/aadisashop","nama_toko":"aadisashop"},{"ecommerce_id":3,"ecommerce_name":"shopee","link_toko":"https:\/\/www.tokopedia.com\/aadisashop","nama_toko":"aadisashop"}],"epd_lama_berjualan_online":"2017-06-01","epd_nilai_rata_penjualan":67000000,"epd_company_type":4,"seller_province":"Jawa Timur","seller_kab_kot":"Kota Surabaya","rd_agree_terms":"Y","shipping_from":"Rungkut","loan_type1":"Y","loan_type2":"","eld_mlt_id":1,"bpd_company_bank_name_id":"PT. BANK NEGARA INDONESIA (BNI) (PERSERO)","bpd_company_bank_account_name":"Sdri Ika Diana Werdani","bpd_company_bank_number":"0305106569","domisili_same_as_ktp":"","bpd_dob":"1989-03-23","bpd_full_name":"Syaikhul Haadi","bpd_domicile_province":"","bpd_domicile_kab_kot":"","bpd_domicile_kecamatan":"","bpd_domicile_kelurahan":"","bpd_domicile_address":"","bpd_domicile_postal_code":"","bpd_domicile_phone":"6289608896389","epd_offline_store_address":"","epd_offline_store_province":"","epd_offline_store_kab_kot":"","epd_offline_store_kecamatan":"","epd_offline_store_kelurahan":"","epd_offline_store_postal_code":"","bpd_ktp_expired":"","bpd_ktp":"3578032303890003","bpd_npwp_no":"98.551.002.3-615.000","bpd_company_desc":"murah dan original","bpd_pob":"Kota Surabaya","right_data":"Y","bpd_company_address":"Rungkut Lor Rl.i-c\/25","bpd_company_postal_code":"60295","bpd_company_kecamatan":"Rungkut","bpd_company_kab_kot":"Kota Surabaya","bpd_company_province":"Jawa Timur","bpd_company_kelurahan":"","transaction_history":[68,131,64,62,35,42,29,21,23,16,10,4],"cashflow_history":[16200000,25829800,13834000,13854000,8056000,8042000,5572400,4243500,4509500,3095400,2268300,376000],"ktp_image":"https:\/\/ecs7.tokopedia.net\/img\/microfinance\/mitra-toppers\/2019\/5\/16\/2019_05_16_081619-a63r63_IMG-20190423-WA0000.jpg","ktp_selfie":"https:\/\/ecs7.tokopedia.net\/img\/microfinance\/mitra-toppers\/2019\/5\/16\/2019_05_16_081647-3n3w9n_IMG-20190423-WA0001.jpg","cap_amount":10000000,"eld_bank_statement":"","eld_rm_name":"","eld_loan_tenor":3,"loan_osf":"Online Seller Financing","eld_loan_reg_date":"2019-05-16 08:54:49"}
+2019-05-16 9:10:10 - INFO --> header_response : {"url":"https:\/\/mobi.investree.id\/mobile\/v1\/partner\/ecommerce\/registration_all","content_type":"application\/json","http_code":200,"header_size":801,"request_size":209,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":4.602764,"namelookup_time":0.000317,"connect_time":0.00069,"pretransfer_time":0.00924,"size_upload":2483,"size_download":101,"speed_download":21,"speed_upload":539,"download_content_length":-1,"upload_content_length":2483,"starttransfer_time":0.009665,"redirect_time":0,"certinfo":[],"primary_ip":"116.206.196.175","redirect_url":""}
+2019-05-16 9:10:10 - INFO --> response : "{\"status\":\"ERROR\",\"data\":null,\"meta\":{\"code\":500,\"message\":\"Data is exist\",\"debugInfo\":\"\"}}"
+2019-05-16 9:10:15 - INFO --> data			: {"program_id":"98","start_time":"2019-05-16 08:00:01","end_time":"2019-05-16 09:00:00"}
+2019-05-16 9:10:15 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+09%3A00%3A00&program_id=98&start_time=2019-05-16+08%3A00%3A01
+2019-05-16 9:10:15 - INFO --> Unix-Time 	: 1557972615
+2019-05-16 9:10:15 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557972615
+2019-05-16 09:00:00
+98
+2019-05-16 08:00:01
+2019-05-16 9:10:15 - INFO --> Signature 	: C7gf3wWH3OCycHcEZ/9vYv9qAfk=
+2019-05-16 9:10:15 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+09%3A00%3A00&program_id=98&start_time=2019-05-16+08%3A00%3A01 Data : {"end_time":"2019-05-16 09:00:00","program_id":"98","start_time":"2019-05-16 08:00:01"}
+2019-05-16 9:10:15 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 9:10:20 - INFO --> data			: {"program_id":"99","start_time":"2019-05-16 08:00:01","end_time":"2019-05-16 09:00:00"}
+2019-05-16 9:10:20 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+09%3A00%3A00&program_id=99&start_time=2019-05-16+08%3A00%3A01
+2019-05-16 9:10:20 - INFO --> Unix-Time 	: 1557972620
+2019-05-16 9:10:20 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557972620
+2019-05-16 09:00:00
+99
+2019-05-16 08:00:01
+2019-05-16 9:10:20 - INFO --> Signature 	: nmJXrCO4IUcO+bdvV98gbrV81ZU=
+2019-05-16 9:10:20 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+09%3A00%3A00&program_id=99&start_time=2019-05-16+08%3A00%3A01 Data : {"end_time":"2019-05-16 09:00:00","program_id":"99","start_time":"2019-05-16 08:00:01"}
+2019-05-16 9:10:20 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 10:00:10 - INFO --> data			: {"program_id":"78","start_time":"2019-05-16 09:00:01","end_time":"2019-05-16 10:00:00"}
+2019-05-16 10:00:10 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+10%3A00%3A00&program_id=78&start_time=2019-05-16+09%3A00%3A01
+2019-05-16 10:00:10 - INFO --> Unix-Time 	: 1557975610
+2019-05-16 10:00:10 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557975610
+2019-05-16 10:00:00
+78
+2019-05-16 09:00:01
+2019-05-16 10:00:10 - INFO --> Signature 	: 9icdaDe0nzDfw+MsaexIjtenQlg=
+2019-05-16 10:00:10 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+10%3A00%3A00&program_id=78&start_time=2019-05-16+09%3A00%3A01 Data : {"end_time":"2019-05-16 10:00:00","program_id":"78","start_time":"2019-05-16 09:00:01"}
+2019-05-16 10:00:10 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 10:00:15 - INFO --> data			: {"program_id":"98","start_time":"2019-05-16 09:00:01","end_time":"2019-05-16 10:00:00"}
+2019-05-16 10:00:15 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+10%3A00%3A00&program_id=98&start_time=2019-05-16+09%3A00%3A01
+2019-05-16 10:00:15 - INFO --> Unix-Time 	: 1557975615
+2019-05-16 10:00:15 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557975615
+2019-05-16 10:00:00
+98
+2019-05-16 09:00:01
+2019-05-16 10:00:15 - INFO --> Signature 	: mMKZydLxzo5mELAvv4l6pbeY4no=
+2019-05-16 10:00:15 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+10%3A00%3A00&program_id=98&start_time=2019-05-16+09%3A00%3A01 Data : {"end_time":"2019-05-16 10:00:00","program_id":"98","start_time":"2019-05-16 09:00:01"}
+2019-05-16 10:00:15 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 10:00:20 - INFO --> data			: {"program_id":"99","start_time":"2019-05-16 09:00:01","end_time":"2019-05-16 10:00:00"}
+2019-05-16 10:00:20 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+10%3A00%3A00&program_id=99&start_time=2019-05-16+09%3A00%3A01
+2019-05-16 10:00:20 - INFO --> Unix-Time 	: 1557975620
+2019-05-16 10:00:20 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557975620
+2019-05-16 10:00:00
+99
+2019-05-16 09:00:01
+2019-05-16 10:00:20 - INFO --> Signature 	: OYgKcRjNBrAC7sVCPWVG3x6l+zA=
+2019-05-16 10:00:20 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+10%3A00%3A00&program_id=99&start_time=2019-05-16+09%3A00%3A01 Data : {"end_time":"2019-05-16 10:00:00","program_id":"99","start_time":"2019-05-16 09:00:01"}
+2019-05-16 10:00:20 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 10:10:05 - INFO --> data			: {"program_id":"78","start_time":"2019-05-16 09:00:01","end_time":"2019-05-16 10:00:00"}
+2019-05-16 10:10:05 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+10%3A00%3A00&program_id=78&start_time=2019-05-16+09%3A00%3A01
+2019-05-16 10:10:05 - INFO --> Unix-Time 	: 1557976205
+2019-05-16 10:10:05 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557976205
+2019-05-16 10:00:00
+78
+2019-05-16 09:00:01
+2019-05-16 10:10:05 - INFO --> Signature 	: yO5z0QyreJhKLdOcXZrF3wuVjxw=
+2019-05-16 10:10:05 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+10%3A00%3A00&program_id=78&start_time=2019-05-16+09%3A00%3A01 Data : {"end_time":"2019-05-16 10:00:00","program_id":"78","start_time":"2019-05-16 09:00:01"}
+2019-05-16 10:10:05 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 10:10:10 - INFO --> data			: {"program_id":"98","start_time":"2019-05-16 09:00:01","end_time":"2019-05-16 10:00:00"}
+2019-05-16 10:10:10 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+10%3A00%3A00&program_id=98&start_time=2019-05-16+09%3A00%3A01
+2019-05-16 10:10:10 - INFO --> Unix-Time 	: 1557976210
+2019-05-16 10:10:10 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557976210
+2019-05-16 10:00:00
+98
+2019-05-16 09:00:01
+2019-05-16 10:10:10 - INFO --> Signature 	: 5uPefV52Z49HvDqpCO1oe5+Ca6M=
+2019-05-16 10:10:10 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+10%3A00%3A00&program_id=98&start_time=2019-05-16+09%3A00%3A01 Data : {"end_time":"2019-05-16 10:00:00","program_id":"98","start_time":"2019-05-16 09:00:01"}
+2019-05-16 10:10:10 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 10:10:15 - INFO --> data			: {"program_id":"99","start_time":"2019-05-16 09:00:01","end_time":"2019-05-16 10:00:00"}
+2019-05-16 10:10:15 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+10%3A00%3A00&program_id=99&start_time=2019-05-16+09%3A00%3A01
+2019-05-16 10:10:15 - INFO --> Unix-Time 	: 1557976215
+2019-05-16 10:10:15 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557976215
+2019-05-16 10:00:00
+99
+2019-05-16 09:00:01
+2019-05-16 10:10:15 - INFO --> Signature 	: B4f/6/s4U1MVhDtH4WJEkDBIs28=
+2019-05-16 10:10:15 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+10%3A00%3A00&program_id=99&start_time=2019-05-16+09%3A00%3A01 Data : {"end_time":"2019-05-16 10:00:00","program_id":"99","start_time":"2019-05-16 09:00:01"}
+2019-05-16 10:10:15 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 11:00:08 - INFO --> data			: {"program_id":"78","start_time":"2019-05-16 10:00:01","end_time":"2019-05-16 11:00:00"}
+2019-05-16 11:00:08 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+11%3A00%3A00&program_id=78&start_time=2019-05-16+10%3A00%3A01
+2019-05-16 11:00:08 - INFO --> Unix-Time 	: 1557979208
+2019-05-16 11:00:08 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557979208
+2019-05-16 11:00:00
+78
+2019-05-16 10:00:01
+2019-05-16 11:00:08 - INFO --> Signature 	: uE/6097TxPpDj3cJW/+fLeOntvA=
+2019-05-16 11:00:08 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+11%3A00%3A00&program_id=78&start_time=2019-05-16+10%3A00%3A01 Data : {"end_time":"2019-05-16 11:00:00","program_id":"78","start_time":"2019-05-16 10:00:01"}
+2019-05-16 11:00:08 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 11:00:13 - INFO --> data			: {"program_id":"98","start_time":"2019-05-16 10:00:01","end_time":"2019-05-16 11:00:00"}
+2019-05-16 11:00:13 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+11%3A00%3A00&program_id=98&start_time=2019-05-16+10%3A00%3A01
+2019-05-16 11:00:13 - INFO --> Unix-Time 	: 1557979213
+2019-05-16 11:00:13 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557979213
+2019-05-16 11:00:00
+98
+2019-05-16 10:00:01
+2019-05-16 11:00:13 - INFO --> Signature 	: /tDeFYVzy+7++xvEv4KSTE3OMo4=
+2019-05-16 11:00:13 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+11%3A00%3A00&program_id=98&start_time=2019-05-16+10%3A00%3A01 Data : {"end_time":"2019-05-16 11:00:00","program_id":"98","start_time":"2019-05-16 10:00:01"}
+2019-05-16 11:00:13 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 11:00:18 - INFO --> data			: {"program_id":"99","start_time":"2019-05-16 10:00:01","end_time":"2019-05-16 11:00:00"}
+2019-05-16 11:00:18 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+11%3A00%3A00&program_id=99&start_time=2019-05-16+10%3A00%3A01
+2019-05-16 11:00:18 - INFO --> Unix-Time 	: 1557979218
+2019-05-16 11:00:18 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557979218
+2019-05-16 11:00:00
+99
+2019-05-16 10:00:01
+2019-05-16 11:00:18 - INFO --> Signature 	: dena/2998aYlze+Iqjgm5VmUMX8=
+2019-05-16 11:00:18 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+11%3A00%3A00&program_id=99&start_time=2019-05-16+10%3A00%3A01 Data : {"end_time":"2019-05-16 11:00:00","program_id":"99","start_time":"2019-05-16 10:00:01"}
+2019-05-16 11:00:19 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 11:10:05 - INFO --> data			: {"program_id":"78","start_time":"2019-05-16 10:00:01","end_time":"2019-05-16 11:00:00"}
+2019-05-16 11:10:05 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+11%3A00%3A00&program_id=78&start_time=2019-05-16+10%3A00%3A01
+2019-05-16 11:10:05 - INFO --> Unix-Time 	: 1557979805
+2019-05-16 11:10:05 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557979805
+2019-05-16 11:00:00
+78
+2019-05-16 10:00:01
+2019-05-16 11:10:05 - INFO --> Signature 	: j6NW0sPY6u88o2VLNyy8phM8BX8=
+2019-05-16 11:10:05 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+11%3A00%3A00&program_id=78&start_time=2019-05-16+10%3A00%3A01 Data : {"end_time":"2019-05-16 11:00:00","program_id":"78","start_time":"2019-05-16 10:00:01"}
+2019-05-16 11:10:05 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 11:10:10 - INFO --> data			: {"program_id":"98","start_time":"2019-05-16 10:00:01","end_time":"2019-05-16 11:00:00"}
+2019-05-16 11:10:10 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+11%3A00%3A00&program_id=98&start_time=2019-05-16+10%3A00%3A01
+2019-05-16 11:10:10 - INFO --> Unix-Time 	: 1557979810
+2019-05-16 11:10:10 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557979810
+2019-05-16 11:00:00
+98
+2019-05-16 10:00:01
+2019-05-16 11:10:10 - INFO --> Signature 	: g5sBVEwAEhMa8To7byLIUcfyXLI=
+2019-05-16 11:10:10 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+11%3A00%3A00&program_id=98&start_time=2019-05-16+10%3A00%3A01 Data : {"end_time":"2019-05-16 11:00:00","program_id":"98","start_time":"2019-05-16 10:00:01"}
+2019-05-16 11:10:11 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 11:10:16 - INFO --> data			: {"program_id":"99","start_time":"2019-05-16 10:00:01","end_time":"2019-05-16 11:00:00"}
+2019-05-16 11:10:16 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+11%3A00%3A00&program_id=99&start_time=2019-05-16+10%3A00%3A01
+2019-05-16 11:10:16 - INFO --> Unix-Time 	: 1557979816
+2019-05-16 11:10:16 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557979816
+2019-05-16 11:00:00
+99
+2019-05-16 10:00:01
+2019-05-16 11:10:16 - INFO --> Signature 	: YKZXWOwzBCQ6Pgn9o/+G2LaT+ug=
+2019-05-16 11:10:16 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+11%3A00%3A00&program_id=99&start_time=2019-05-16+10%3A00%3A01 Data : {"end_time":"2019-05-16 11:00:00","program_id":"99","start_time":"2019-05-16 10:00:01"}
+2019-05-16 11:10:16 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 12:00:17 - INFO --> data			: {"program_id":"78","start_time":"2019-05-16 11:00:01","end_time":"2019-05-16 12:00:00"}
+2019-05-16 12:00:17 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+12%3A00%3A00&program_id=78&start_time=2019-05-16+11%3A00%3A01
+2019-05-16 12:00:17 - INFO --> Unix-Time 	: 1557982817
+2019-05-16 12:00:17 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557982817
+2019-05-16 12:00:00
+78
+2019-05-16 11:00:01
+2019-05-16 12:00:17 - INFO --> Signature 	: AMtytigSpN0h8oNbRWgyLoEdhOQ=
+2019-05-16 12:00:17 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+12%3A00%3A00&program_id=78&start_time=2019-05-16+11%3A00%3A01 Data : {"end_time":"2019-05-16 12:00:00","program_id":"78","start_time":"2019-05-16 11:00:01"}
+2019-05-16 12:00:17 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 12:00:22 - INFO --> data			: {"program_id":"98","start_time":"2019-05-16 11:00:01","end_time":"2019-05-16 12:00:00"}
+2019-05-16 12:00:22 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+12%3A00%3A00&program_id=98&start_time=2019-05-16+11%3A00%3A01
+2019-05-16 12:00:22 - INFO --> Unix-Time 	: 1557982822
+2019-05-16 12:00:22 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557982822
+2019-05-16 12:00:00
+98
+2019-05-16 11:00:01
+2019-05-16 12:00:22 - INFO --> Signature 	: EBhyk+/9Y0kCH89hKAMmyh+3AsU=
+2019-05-16 12:00:22 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+12%3A00%3A00&program_id=98&start_time=2019-05-16+11%3A00%3A01 Data : {"end_time":"2019-05-16 12:00:00","program_id":"98","start_time":"2019-05-16 11:00:01"}
+2019-05-16 12:00:22 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 12:00:27 - INFO --> data			: {"program_id":"99","start_time":"2019-05-16 11:00:01","end_time":"2019-05-16 12:00:00"}
+2019-05-16 12:00:27 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+12%3A00%3A00&program_id=99&start_time=2019-05-16+11%3A00%3A01
+2019-05-16 12:00:27 - INFO --> Unix-Time 	: 1557982827
+2019-05-16 12:00:27 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557982827
+2019-05-16 12:00:00
+99
+2019-05-16 11:00:01
+2019-05-16 12:00:27 - INFO --> Signature 	: OlCP0X6MhKLXbjZ49lUHPUAp0Gg=
+2019-05-16 12:00:27 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+12%3A00%3A00&program_id=99&start_time=2019-05-16+11%3A00%3A01 Data : {"end_time":"2019-05-16 12:00:00","program_id":"99","start_time":"2019-05-16 11:00:01"}
+2019-05-16 12:00:28 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 12:10:08 - INFO --> data			: {"program_id":"78","start_time":"2019-05-16 11:00:01","end_time":"2019-05-16 12:00:00"}
+2019-05-16 12:10:08 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+12%3A00%3A00&program_id=78&start_time=2019-05-16+11%3A00%3A01
+2019-05-16 12:10:08 - INFO --> Unix-Time 	: 1557983408
+2019-05-16 12:10:08 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557983408
+2019-05-16 12:00:00
+78
+2019-05-16 11:00:01
+2019-05-16 12:10:08 - INFO --> Signature 	: YIZaR5S+xjl+l9oTuNyHcly1Xjk=
+2019-05-16 12:10:08 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+12%3A00%3A00&program_id=78&start_time=2019-05-16+11%3A00%3A01 Data : {"end_time":"2019-05-16 12:00:00","program_id":"78","start_time":"2019-05-16 11:00:01"}
+2019-05-16 12:10:08 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 12:10:13 - INFO --> data			: {"program_id":"98","start_time":"2019-05-16 11:00:01","end_time":"2019-05-16 12:00:00"}
+2019-05-16 12:10:13 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+12%3A00%3A00&program_id=98&start_time=2019-05-16+11%3A00%3A01
+2019-05-16 12:10:13 - INFO --> Unix-Time 	: 1557983413
+2019-05-16 12:10:13 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557983413
+2019-05-16 12:00:00
+98
+2019-05-16 11:00:01
+2019-05-16 12:10:13 - INFO --> Signature 	: 3olIfLZGMI5Pfc8ivouUovyVtpI=
+2019-05-16 12:10:13 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+12%3A00%3A00&program_id=98&start_time=2019-05-16+11%3A00%3A01 Data : {"end_time":"2019-05-16 12:00:00","program_id":"98","start_time":"2019-05-16 11:00:01"}
+2019-05-16 12:10:14 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 12:10:19 - INFO --> data			: {"program_id":"99","start_time":"2019-05-16 11:00:01","end_time":"2019-05-16 12:00:00"}
+2019-05-16 12:10:19 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+12%3A00%3A00&program_id=99&start_time=2019-05-16+11%3A00%3A01
+2019-05-16 12:10:19 - INFO --> Unix-Time 	: 1557983419
+2019-05-16 12:10:19 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557983419
+2019-05-16 12:00:00
+99
+2019-05-16 11:00:01
+2019-05-16 12:10:19 - INFO --> Signature 	: TWf7aNBhKs+AKUc1XE7h3C0zzEc=
+2019-05-16 12:10:19 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+12%3A00%3A00&program_id=99&start_time=2019-05-16+11%3A00%3A01 Data : {"end_time":"2019-05-16 12:00:00","program_id":"99","start_time":"2019-05-16 11:00:01"}
+2019-05-16 12:10:19 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 13:00:09 - INFO --> data			: {"program_id":"78","start_time":"2019-05-16 12:00:01","end_time":"2019-05-16 13:00:00"}
+2019-05-16 13:00:09 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+13%3A00%3A00&program_id=78&start_time=2019-05-16+12%3A00%3A01
+2019-05-16 13:00:09 - INFO --> Unix-Time 	: 1557986409
+2019-05-16 13:00:09 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557986409
+2019-05-16 13:00:00
+78
+2019-05-16 12:00:01
+2019-05-16 13:00:09 - INFO --> Signature 	: 8j7XiLx1gRyzt6tyB+unsnoYoIA=
+2019-05-16 13:00:09 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+13%3A00%3A00&program_id=78&start_time=2019-05-16+12%3A00%3A01 Data : {"end_time":"2019-05-16 13:00:00","program_id":"78","start_time":"2019-05-16 12:00:01"}
+2019-05-16 13:00:09 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 13:00:14 - INFO --> data			: {"program_id":"98","start_time":"2019-05-16 12:00:01","end_time":"2019-05-16 13:00:00"}
+2019-05-16 13:00:14 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+13%3A00%3A00&program_id=98&start_time=2019-05-16+12%3A00%3A01
+2019-05-16 13:00:14 - INFO --> Unix-Time 	: 1557986414
+2019-05-16 13:00:14 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557986414
+2019-05-16 13:00:00
+98
+2019-05-16 12:00:01
+2019-05-16 13:00:14 - INFO --> Signature 	: e7WoJHkoom+WR/S80l/FgRr1H0E=
+2019-05-16 13:00:14 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+13%3A00%3A00&program_id=98&start_time=2019-05-16+12%3A00%3A01 Data : {"end_time":"2019-05-16 13:00:00","program_id":"98","start_time":"2019-05-16 12:00:01"}
+2019-05-16 13:00:14 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 13:00:19 - INFO --> data			: {"program_id":"99","start_time":"2019-05-16 12:00:01","end_time":"2019-05-16 13:00:00"}
+2019-05-16 13:00:19 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+13%3A00%3A00&program_id=99&start_time=2019-05-16+12%3A00%3A01
+2019-05-16 13:00:19 - INFO --> Unix-Time 	: 1557986419
+2019-05-16 13:00:19 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557986419
+2019-05-16 13:00:00
+99
+2019-05-16 12:00:01
+2019-05-16 13:00:19 - INFO --> Signature 	: HzZcSihvRnYKZK/RN96+/0ES/6I=
+2019-05-16 13:00:19 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+13%3A00%3A00&program_id=99&start_time=2019-05-16+12%3A00%3A01 Data : {"end_time":"2019-05-16 13:00:00","program_id":"99","start_time":"2019-05-16 12:00:01"}
+2019-05-16 13:00:19 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 13:10:05 - INFO --> data			: {"program_id":"78","start_time":"2019-05-16 12:00:01","end_time":"2019-05-16 13:00:00"}
+2019-05-16 13:10:05 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+13%3A00%3A00&program_id=78&start_time=2019-05-16+12%3A00%3A01
+2019-05-16 13:10:05 - INFO --> Unix-Time 	: 1557987005
+2019-05-16 13:10:05 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557987005
+2019-05-16 13:00:00
+78
+2019-05-16 12:00:01
+2019-05-16 13:10:05 - INFO --> Signature 	: NOFF2d+gdZ2R9oUpw65ZN2N3I5U=
+2019-05-16 13:10:05 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+13%3A00%3A00&program_id=78&start_time=2019-05-16+12%3A00%3A01 Data : {"end_time":"2019-05-16 13:00:00","program_id":"78","start_time":"2019-05-16 12:00:01"}
+2019-05-16 13:10:05 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 13:10:10 - INFO --> data			: {"program_id":"98","start_time":"2019-05-16 12:00:01","end_time":"2019-05-16 13:00:00"}
+2019-05-16 13:10:10 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+13%3A00%3A00&program_id=98&start_time=2019-05-16+12%3A00%3A01
+2019-05-16 13:10:10 - INFO --> Unix-Time 	: 1557987010
+2019-05-16 13:10:10 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557987010
+2019-05-16 13:00:00
+98
+2019-05-16 12:00:01
+2019-05-16 13:10:10 - INFO --> Signature 	: xUlGcX34PmePvWcjpJfpSp9457o=
+2019-05-16 13:10:10 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+13%3A00%3A00&program_id=98&start_time=2019-05-16+12%3A00%3A01 Data : {"end_time":"2019-05-16 13:00:00","program_id":"98","start_time":"2019-05-16 12:00:01"}
+2019-05-16 13:10:10 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 13:10:15 - INFO --> data			: {"program_id":"99","start_time":"2019-05-16 12:00:01","end_time":"2019-05-16 13:00:00"}
+2019-05-16 13:10:15 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+13%3A00%3A00&program_id=99&start_time=2019-05-16+12%3A00%3A01
+2019-05-16 13:10:15 - INFO --> Unix-Time 	: 1557987015
+2019-05-16 13:10:15 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557987015
+2019-05-16 13:00:00
+99
+2019-05-16 12:00:01
+2019-05-16 13:10:15 - INFO --> Signature 	: 4K2187v/1OqKzw4NwFva9t6dPxk=
+2019-05-16 13:10:15 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+13%3A00%3A00&program_id=99&start_time=2019-05-16+12%3A00%3A01 Data : {"end_time":"2019-05-16 13:00:00","program_id":"99","start_time":"2019-05-16 12:00:01"}
+2019-05-16 13:10:15 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 14:00:13 - INFO --> data			: {"program_id":"78","start_time":"2019-05-16 13:00:01","end_time":"2019-05-16 14:00:00"}
+2019-05-16 14:00:13 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+14%3A00%3A00&program_id=78&start_time=2019-05-16+13%3A00%3A01
+2019-05-16 14:00:13 - INFO --> Unix-Time 	: 1557990013
+2019-05-16 14:00:13 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557990013
+2019-05-16 14:00:00
+78
+2019-05-16 13:00:01
+2019-05-16 14:00:13 - INFO --> Signature 	: 3QS6oaDFgcEmk/s9kl8U1hBuQIM=
+2019-05-16 14:00:13 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+14%3A00%3A00&program_id=78&start_time=2019-05-16+13%3A00%3A01 Data : {"end_time":"2019-05-16 14:00:00","program_id":"78","start_time":"2019-05-16 13:00:01"}
+2019-05-16 14:00:14 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 14:00:19 - INFO --> data			: {"program_id":"98","start_time":"2019-05-16 13:00:01","end_time":"2019-05-16 14:00:00"}
+2019-05-16 14:00:19 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+14%3A00%3A00&program_id=98&start_time=2019-05-16+13%3A00%3A01
+2019-05-16 14:00:19 - INFO --> Unix-Time 	: 1557990019
+2019-05-16 14:00:19 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557990019
+2019-05-16 14:00:00
+98
+2019-05-16 13:00:01
+2019-05-16 14:00:19 - INFO --> Signature 	: 3QhP1Ac25mzIhqRKG0m1+c4+TVQ=
+2019-05-16 14:00:19 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+14%3A00%3A00&program_id=98&start_time=2019-05-16+13%3A00%3A01 Data : {"end_time":"2019-05-16 14:00:00","program_id":"98","start_time":"2019-05-16 13:00:01"}
+2019-05-16 14:00:19 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 14:00:24 - INFO --> data			: {"program_id":"99","start_time":"2019-05-16 13:00:01","end_time":"2019-05-16 14:00:00"}
+2019-05-16 14:00:24 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+14%3A00%3A00&program_id=99&start_time=2019-05-16+13%3A00%3A01
+2019-05-16 14:00:24 - INFO --> Unix-Time 	: 1557990024
+2019-05-16 14:00:24 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557990024
+2019-05-16 14:00:00
+99
+2019-05-16 13:00:01
+2019-05-16 14:00:24 - INFO --> Signature 	: dp+QtxLnt5Z8Q/eI4V+bTdmrieo=
+2019-05-16 14:00:24 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+14%3A00%3A00&program_id=99&start_time=2019-05-16+13%3A00%3A01 Data : {"end_time":"2019-05-16 14:00:00","program_id":"99","start_time":"2019-05-16 13:00:01"}
+2019-05-16 14:00:25 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 14:10:06 - INFO --> data			: {"program_id":"78","start_time":"2019-05-16 13:00:01","end_time":"2019-05-16 14:00:00"}
+2019-05-16 14:10:06 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+14%3A00%3A00&program_id=78&start_time=2019-05-16+13%3A00%3A01
+2019-05-16 14:10:06 - INFO --> Unix-Time 	: 1557990606
+2019-05-16 14:10:06 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557990606
+2019-05-16 14:00:00
+78
+2019-05-16 13:00:01
+2019-05-16 14:10:06 - INFO --> Signature 	: rOtY2lxeahEk1kmxHmm9Yp+uoJE=
+2019-05-16 14:10:06 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+14%3A00%3A00&program_id=78&start_time=2019-05-16+13%3A00%3A01 Data : {"end_time":"2019-05-16 14:00:00","program_id":"78","start_time":"2019-05-16 13:00:01"}
+2019-05-16 14:10:06 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 14:10:11 - INFO --> data			: {"program_id":"98","start_time":"2019-05-16 13:00:01","end_time":"2019-05-16 14:00:00"}
+2019-05-16 14:10:11 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+14%3A00%3A00&program_id=98&start_time=2019-05-16+13%3A00%3A01
+2019-05-16 14:10:11 - INFO --> Unix-Time 	: 1557990611
+2019-05-16 14:10:11 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557990611
+2019-05-16 14:00:00
+98
+2019-05-16 13:00:01
+2019-05-16 14:10:11 - INFO --> Signature 	: tQ389dPoZWXJfXQ+es40lHeUZ1s=
+2019-05-16 14:10:11 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+14%3A00%3A00&program_id=98&start_time=2019-05-16+13%3A00%3A01 Data : {"end_time":"2019-05-16 14:00:00","program_id":"98","start_time":"2019-05-16 13:00:01"}
+2019-05-16 14:10:12 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 14:10:17 - INFO --> data			: {"program_id":"99","start_time":"2019-05-16 13:00:01","end_time":"2019-05-16 14:00:00"}
+2019-05-16 14:10:17 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+14%3A00%3A00&program_id=99&start_time=2019-05-16+13%3A00%3A01
+2019-05-16 14:10:17 - INFO --> Unix-Time 	: 1557990617
+2019-05-16 14:10:17 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557990617
+2019-05-16 14:00:00
+99
+2019-05-16 13:00:01
+2019-05-16 14:10:17 - INFO --> Signature 	: ev9Wntja3SP0oTVr6aQup26s2JA=
+2019-05-16 14:10:17 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+14%3A00%3A00&program_id=99&start_time=2019-05-16+13%3A00%3A01 Data : {"end_time":"2019-05-16 14:00:00","program_id":"99","start_time":"2019-05-16 13:00:01"}
+2019-05-16 14:10:17 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 15:00:15 - INFO --> data			: {"program_id":"78","start_time":"2019-05-16 14:00:01","end_time":"2019-05-16 15:00:00"}
+2019-05-16 15:00:15 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+15%3A00%3A00&program_id=78&start_time=2019-05-16+14%3A00%3A01
+2019-05-16 15:00:15 - INFO --> Unix-Time 	: 1557993615
+2019-05-16 15:00:15 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557993615
+2019-05-16 15:00:00
+78
+2019-05-16 14:00:01
+2019-05-16 15:00:15 - INFO --> Signature 	: qX7sIsmGFAcNPJy1y+vS7RKU/rY=
+2019-05-16 15:00:15 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+15%3A00%3A00&program_id=78&start_time=2019-05-16+14%3A00%3A01 Data : {"end_time":"2019-05-16 15:00:00","program_id":"78","start_time":"2019-05-16 14:00:01"}
+2019-05-16 15:00:17 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 15:00:22 - INFO --> data			: {"program_id":"98","start_time":"2019-05-16 14:00:01","end_time":"2019-05-16 15:00:00"}
+2019-05-16 15:00:22 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+15%3A00%3A00&program_id=98&start_time=2019-05-16+14%3A00%3A01
+2019-05-16 15:00:22 - INFO --> Unix-Time 	: 1557993622
+2019-05-16 15:00:22 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557993622
+2019-05-16 15:00:00
+98
+2019-05-16 14:00:01
+2019-05-16 15:00:22 - INFO --> Signature 	: VCUaZxaL4dDa9kYO3uCF95G/R8c=
+2019-05-16 15:00:22 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+15%3A00%3A00&program_id=98&start_time=2019-05-16+14%3A00%3A01 Data : {"end_time":"2019-05-16 15:00:00","program_id":"98","start_time":"2019-05-16 14:00:01"}
+2019-05-16 15:00:22 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 15:00:27 - INFO --> data			: {"program_id":"99","start_time":"2019-05-16 14:00:01","end_time":"2019-05-16 15:00:00"}
+2019-05-16 15:00:27 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+15%3A00%3A00&program_id=99&start_time=2019-05-16+14%3A00%3A01
+2019-05-16 15:00:27 - INFO --> Unix-Time 	: 1557993627
+2019-05-16 15:00:27 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557993627
+2019-05-16 15:00:00
+99
+2019-05-16 14:00:01
+2019-05-16 15:00:27 - INFO --> Signature 	: uhjQts9Xin0n9cccBmlDAqAsbRM=
+2019-05-16 15:00:27 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+15%3A00%3A00&program_id=99&start_time=2019-05-16+14%3A00%3A01 Data : {"end_time":"2019-05-16 15:00:00","program_id":"99","start_time":"2019-05-16 14:00:01"}
+2019-05-16 15:00:27 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 15:10:07 - INFO --> data			: {"program_id":"78","start_time":"2019-05-16 14:00:01","end_time":"2019-05-16 15:00:00"}
+2019-05-16 15:10:07 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+15%3A00%3A00&program_id=78&start_time=2019-05-16+14%3A00%3A01
+2019-05-16 15:10:07 - INFO --> Unix-Time 	: 1557994207
+2019-05-16 15:10:07 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557994207
+2019-05-16 15:00:00
+78
+2019-05-16 14:00:01
+2019-05-16 15:10:07 - INFO --> Signature 	: 7O3jTgoTJ98AW0LtA38Kzsh9res=
+2019-05-16 15:10:07 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+15%3A00%3A00&program_id=78&start_time=2019-05-16+14%3A00%3A01 Data : {"end_time":"2019-05-16 15:00:00","program_id":"78","start_time":"2019-05-16 14:00:01"}
+2019-05-16 15:10:07 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 15:10:12 - INFO --> data			: {"program_id":"98","start_time":"2019-05-16 14:00:01","end_time":"2019-05-16 15:00:00"}
+2019-05-16 15:10:12 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+15%3A00%3A00&program_id=98&start_time=2019-05-16+14%3A00%3A01
+2019-05-16 15:10:12 - INFO --> Unix-Time 	: 1557994212
+2019-05-16 15:10:12 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557994212
+2019-05-16 15:00:00
+98
+2019-05-16 14:00:01
+2019-05-16 15:10:12 - INFO --> Signature 	: trcRM37qpu4NM9ZbMHBboW1bV9Y=
+2019-05-16 15:10:12 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+15%3A00%3A00&program_id=98&start_time=2019-05-16+14%3A00%3A01 Data : {"end_time":"2019-05-16 15:00:00","program_id":"98","start_time":"2019-05-16 14:00:01"}
+2019-05-16 15:10:12 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 15:10:17 - INFO --> data			: {"program_id":"99","start_time":"2019-05-16 14:00:01","end_time":"2019-05-16 15:00:00"}
+2019-05-16 15:10:17 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+15%3A00%3A00&program_id=99&start_time=2019-05-16+14%3A00%3A01
+2019-05-16 15:10:17 - INFO --> Unix-Time 	: 1557994217
+2019-05-16 15:10:17 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557994217
+2019-05-16 15:00:00
+99
+2019-05-16 14:00:01
+2019-05-16 15:10:17 - INFO --> Signature 	: yLg3M13ZYVu9v0HcbwupeoScHk4=
+2019-05-16 15:10:17 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+15%3A00%3A00&program_id=99&start_time=2019-05-16+14%3A00%3A01 Data : {"end_time":"2019-05-16 15:00:00","program_id":"99","start_time":"2019-05-16 14:00:01"}
+2019-05-16 15:10:17 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 16:00:14 - INFO --> data			: {"program_id":"78","start_time":"2019-05-16 15:00:01","end_time":"2019-05-16 16:00:00"}
+2019-05-16 16:00:14 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+16%3A00%3A00&program_id=78&start_time=2019-05-16+15%3A00%3A01
+2019-05-16 16:00:14 - INFO --> Unix-Time 	: 1557997214
+2019-05-16 16:00:14 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557997214
+2019-05-16 16:00:00
+78
+2019-05-16 15:00:01
+2019-05-16 16:00:14 - INFO --> Signature 	: UAgOODEV9luI8O1Rz9F8pNzIpSY=
+2019-05-16 16:00:14 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+16%3A00%3A00&program_id=78&start_time=2019-05-16+15%3A00%3A01 Data : {"end_time":"2019-05-16 16:00:00","program_id":"78","start_time":"2019-05-16 15:00:01"}
+2019-05-16 16:00:15 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 16:00:20 - INFO --> data			: {"program_id":"98","start_time":"2019-05-16 15:00:01","end_time":"2019-05-16 16:00:00"}
+2019-05-16 16:00:20 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+16%3A00%3A00&program_id=98&start_time=2019-05-16+15%3A00%3A01
+2019-05-16 16:00:20 - INFO --> Unix-Time 	: 1557997220
+2019-05-16 16:00:20 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557997220
+2019-05-16 16:00:00
+98
+2019-05-16 15:00:01
+2019-05-16 16:00:20 - INFO --> Signature 	: oGivDVYn+pm0LxbH8bx5e70x5t4=
+2019-05-16 16:00:20 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+16%3A00%3A00&program_id=98&start_time=2019-05-16+15%3A00%3A01 Data : {"end_time":"2019-05-16 16:00:00","program_id":"98","start_time":"2019-05-16 15:00:01"}
+2019-05-16 16:00:20 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 16:00:25 - INFO --> data			: {"program_id":"99","start_time":"2019-05-16 15:00:01","end_time":"2019-05-16 16:00:00"}
+2019-05-16 16:00:25 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+16%3A00%3A00&program_id=99&start_time=2019-05-16+15%3A00%3A01
+2019-05-16 16:00:25 - INFO --> Unix-Time 	: 1557997225
+2019-05-16 16:00:25 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557997225
+2019-05-16 16:00:00
+99
+2019-05-16 15:00:01
+2019-05-16 16:00:25 - INFO --> Signature 	: nxdmPIBqJQNtWeuNRpbdHl0cXeE=
+2019-05-16 16:00:25 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+16%3A00%3A00&program_id=99&start_time=2019-05-16+15%3A00%3A01 Data : {"end_time":"2019-05-16 16:00:00","program_id":"99","start_time":"2019-05-16 15:00:01"}
+2019-05-16 16:00:25 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 16:10:08 - INFO --> data			: {"program_id":"78","start_time":"2019-05-16 15:00:01","end_time":"2019-05-16 16:00:00"}
+2019-05-16 16:10:08 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+16%3A00%3A00&program_id=78&start_time=2019-05-16+15%3A00%3A01
+2019-05-16 16:10:08 - INFO --> Unix-Time 	: 1557997808
+2019-05-16 16:10:08 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557997808
+2019-05-16 16:00:00
+78
+2019-05-16 15:00:01
+2019-05-16 16:10:08 - INFO --> Signature 	: sUaCLjJxddO3dWgV31r0pUI4t2k=
+2019-05-16 16:10:08 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+16%3A00%3A00&program_id=78&start_time=2019-05-16+15%3A00%3A01 Data : {"end_time":"2019-05-16 16:00:00","program_id":"78","start_time":"2019-05-16 15:00:01"}
+2019-05-16 16:10:09 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 16:10:14 - INFO --> data			: {"program_id":"98","start_time":"2019-05-16 15:00:01","end_time":"2019-05-16 16:00:00"}
+2019-05-16 16:10:14 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+16%3A00%3A00&program_id=98&start_time=2019-05-16+15%3A00%3A01
+2019-05-16 16:10:14 - INFO --> Unix-Time 	: 1557997814
+2019-05-16 16:10:14 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557997814
+2019-05-16 16:00:00
+98
+2019-05-16 15:00:01
+2019-05-16 16:10:14 - INFO --> Signature 	: ur4N7B+h1DP2yrbSc2P3HjkHoz8=
+2019-05-16 16:10:14 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+16%3A00%3A00&program_id=98&start_time=2019-05-16+15%3A00%3A01 Data : {"end_time":"2019-05-16 16:00:00","program_id":"98","start_time":"2019-05-16 15:00:01"}
+2019-05-16 16:10:14 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 16:10:19 - INFO --> data			: {"program_id":"99","start_time":"2019-05-16 15:00:01","end_time":"2019-05-16 16:00:00"}
+2019-05-16 16:10:19 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+16%3A00%3A00&program_id=99&start_time=2019-05-16+15%3A00%3A01
+2019-05-16 16:10:19 - INFO --> Unix-Time 	: 1557997819
+2019-05-16 16:10:19 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1557997819
+2019-05-16 16:00:00
+99
+2019-05-16 15:00:01
+2019-05-16 16:10:19 - INFO --> Signature 	: NTyb9rjqJ0aNdjkXjFeo0bWR7w8=
+2019-05-16 16:10:19 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+16%3A00%3A00&program_id=99&start_time=2019-05-16+15%3A00%3A01 Data : {"end_time":"2019-05-16 16:00:00","program_id":"99","start_time":"2019-05-16 15:00:01"}
+2019-05-16 16:10:19 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 17:00:13 - INFO --> data			: {"program_id":"78","start_time":"2019-05-16 16:00:01","end_time":"2019-05-16 17:00:00"}
+2019-05-16 17:00:13 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+17%3A00%3A00&program_id=78&start_time=2019-05-16+16%3A00%3A01
+2019-05-16 17:00:13 - INFO --> Unix-Time 	: 1558000813
+2019-05-16 17:00:13 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1558000813
+2019-05-16 17:00:00
+78
+2019-05-16 16:00:01
+2019-05-16 17:00:13 - INFO --> Signature 	: +kgpD2YXSH8+wjHiKyqAhGOSfC0=
+2019-05-16 17:00:13 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+17%3A00%3A00&program_id=78&start_time=2019-05-16+16%3A00%3A01 Data : {"end_time":"2019-05-16 17:00:00","program_id":"78","start_time":"2019-05-16 16:00:01"}
+2019-05-16 17:00:13 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 17:00:18 - INFO --> data			: {"program_id":"98","start_time":"2019-05-16 16:00:01","end_time":"2019-05-16 17:00:00"}
+2019-05-16 17:00:18 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+17%3A00%3A00&program_id=98&start_time=2019-05-16+16%3A00%3A01
+2019-05-16 17:00:18 - INFO --> Unix-Time 	: 1558000818
+2019-05-16 17:00:18 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1558000818
+2019-05-16 17:00:00
+98
+2019-05-16 16:00:01
+2019-05-16 17:00:18 - INFO --> Signature 	: nGu/nMRpfIFp2noNxbvyKaeJuuo=
+2019-05-16 17:00:18 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+17%3A00%3A00&program_id=98&start_time=2019-05-16+16%3A00%3A01 Data : {"end_time":"2019-05-16 17:00:00","program_id":"98","start_time":"2019-05-16 16:00:01"}
+2019-05-16 17:00:18 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 17:00:23 - INFO --> data			: {"program_id":"99","start_time":"2019-05-16 16:00:01","end_time":"2019-05-16 17:00:00"}
+2019-05-16 17:00:23 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+17%3A00%3A00&program_id=99&start_time=2019-05-16+16%3A00%3A01
+2019-05-16 17:00:23 - INFO --> Unix-Time 	: 1558000823
+2019-05-16 17:00:23 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1558000823
+2019-05-16 17:00:00
+99
+2019-05-16 16:00:01
+2019-05-16 17:00:23 - INFO --> Signature 	: 3NYBcFwXtYdT/rdkBRLDr/dbqEI=
+2019-05-16 17:00:23 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+17%3A00%3A00&program_id=99&start_time=2019-05-16+16%3A00%3A01 Data : {"end_time":"2019-05-16 17:00:00","program_id":"99","start_time":"2019-05-16 16:00:01"}
+2019-05-16 17:00:23 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 17:10:06 - INFO --> data			: {"program_id":"78","start_time":"2019-05-16 16:00:01","end_time":"2019-05-16 17:00:00"}
+2019-05-16 17:10:06 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+17%3A00%3A00&program_id=78&start_time=2019-05-16+16%3A00%3A01
+2019-05-16 17:10:06 - INFO --> Unix-Time 	: 1558001406
+2019-05-16 17:10:06 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1558001406
+2019-05-16 17:00:00
+78
+2019-05-16 16:00:01
+2019-05-16 17:10:06 - INFO --> Signature 	: goUxVGKL7QC+ycFycfe09C8jCSI=
+2019-05-16 17:10:06 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+17%3A00%3A00&program_id=78&start_time=2019-05-16+16%3A00%3A01 Data : {"end_time":"2019-05-16 17:00:00","program_id":"78","start_time":"2019-05-16 16:00:01"}
+2019-05-16 17:10:06 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 17:10:11 - INFO --> data			: {"program_id":"98","start_time":"2019-05-16 16:00:01","end_time":"2019-05-16 17:00:00"}
+2019-05-16 17:10:11 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+17%3A00%3A00&program_id=98&start_time=2019-05-16+16%3A00%3A01
+2019-05-16 17:10:11 - INFO --> Unix-Time 	: 1558001411
+2019-05-16 17:10:11 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1558001411
+2019-05-16 17:00:00
+98
+2019-05-16 16:00:01
+2019-05-16 17:10:11 - INFO --> Signature 	: bDlVpBrGzbI15W7rLT8QJQOdITE=
+2019-05-16 17:10:11 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+17%3A00%3A00&program_id=98&start_time=2019-05-16+16%3A00%3A01 Data : {"end_time":"2019-05-16 17:00:00","program_id":"98","start_time":"2019-05-16 16:00:01"}
+2019-05-16 17:10:11 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 17:10:16 - INFO --> data			: {"program_id":"99","start_time":"2019-05-16 16:00:01","end_time":"2019-05-16 17:00:00"}
+2019-05-16 17:10:16 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+17%3A00%3A00&program_id=99&start_time=2019-05-16+16%3A00%3A01
+2019-05-16 17:10:16 - INFO --> Unix-Time 	: 1558001416
+2019-05-16 17:10:16 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1558001416
+2019-05-16 17:00:00
+99
+2019-05-16 16:00:01
+2019-05-16 17:10:16 - INFO --> Signature 	: qRR8lbmkep+9FVrb5TOs5FNQjHw=
+2019-05-16 17:10:16 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+17%3A00%3A00&program_id=99&start_time=2019-05-16+16%3A00%3A01 Data : {"end_time":"2019-05-16 17:00:00","program_id":"99","start_time":"2019-05-16 16:00:01"}
+2019-05-16 17:10:16 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 18:00:19 - INFO --> data			: {"program_id":"78","start_time":"2019-05-16 17:00:01","end_time":"2019-05-16 18:00:00"}
+2019-05-16 18:00:19 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+18%3A00%3A00&program_id=78&start_time=2019-05-16+17%3A00%3A01
+2019-05-16 18:00:19 - INFO --> Unix-Time 	: 1558004419
+2019-05-16 18:00:19 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1558004419
+2019-05-16 18:00:00
+78
+2019-05-16 17:00:01
+2019-05-16 18:00:19 - INFO --> Signature 	: oa3Yzwl2Q6ZHW42mcXjVbW5KcIY=
+2019-05-16 18:00:19 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+18%3A00%3A00&program_id=78&start_time=2019-05-16+17%3A00%3A01 Data : {"end_time":"2019-05-16 18:00:00","program_id":"78","start_time":"2019-05-16 17:00:01"}
+2019-05-16 18:00:19 - INFO -->  RECV FROM Tokopedia : {"data":[{"application_id":101582,"loan_amount":2000000,"loan_duration":6,"loan_duration_type":"Bulan","program_name":"Online Seller Financing","create_time":"2019-05-16 17:18:41","bank_name":"Investree","loan_purpose":"Modal Usaha","personal_info":{"full_name":"Ika Monika Natalia","gender":"f","birth_place":"Jakarta Timur","birth_date":"10-Oktober-1982","phone_number":"6287783164222","other_phone_number":"082113636117","email":"ikazuan229@gmail.com","marital_status":"Menikah","mother_name":"Nurlela","tkp_email":"ikazuan229@gmail.com"},"ktp":{"ktp_no":"3175065010820036","address":{"full_address":"Kp Waru Doyong","postal_code":"13930","rt":"008","rw":"008","province":"DKI Jakarta","city":"Jakarta Timur","district":"Cakung","ownership":"Keluarga","stay_period":"22"}},"npwp":"31.750.650.1-082.003","domicile":{"full_address":"","postal_code":"","rt":"","rw":"","province":"","city":"","district":""},"relative_info":{"full_name":"ravi sanjaya","birth_place":"Jakarta Timur","birth_date":"19-Oktober-1997","phone_number":"081282237056","relationship":"Kakak / Adik Kandung","mother_name":""},"shop_info":{"business_sector":"Perdagangan Besar dan Eceran","business_code":"513100","economy_sector":"Perdagangan Besar Tekstil, Pakaian Jadi, dan Kulit","date_start":"4-September-2015","shop_type":"Hanya Online","shop_name":"ika kebaya","shop_domain":"https://www.tokopedia.com/ika-zuan","open_since":"December 2016","merchant_type":"Regular Merchant","shipping_from":"Cakung","offline_address":{"full_address":"","postal_code":"","rt":"","rw":"","province":"","city":"","district":""},"description":"\u0026amp;#34;Kebaya dan Gamis Murah\u0026amp;#34;\u003cbr/\u003e-Harga ditoko kami pasti lebih murah karna kami tangan pertama\u003cbr/\u003e-Cek stock dulu sebelum melakukan order\u003cbr/\u003e"},"other_income_source":{"online_main":false,"occupation":"wirausaha","company":"online shop","monthly_income":7000000},"previous_loan":{"type":"","total_amount":0,"installments":0,"remaining":0},"documents":{"ktp":"https://ecs7.tokopedia.net/microsite-production/mitra-toppers/b0fda9f6-6257-4a34-b351-a852d274bbdf_IMG-20190312-WA0002.jpg","verificationPhoto":"https://ecs7.tokopedia.net/microsite-production/mitra-toppers/83557743-e8a9-46b6-a0d9-56d3b0d2ee1b_IMG-20190312-WA0001.jpg","familyCard":"https://ecs7.tokopedia.net/microsite-production/mitra-toppers/466961a5-6840-405b-98ad-f2ea923796b1_IMG-20180625-WA0010.jpeg"},"transaction_history":[26,18,12,12,12,11,20,24,40,25,18,38],"cashflow_history":[5930000,3665000,2900000,2615000,2885000,1830000,5380000,6065000,8585000,6025000,4385000,10025000],"moderation_count":0,"total_transaction":256,"complaint_count":0,"successful_rate":0.9551282051282052,"six_months_average_transaction":15.166666666666666,"reputation_count":{"positive":175,"neutral":16,"negative":9},"bank_account":[{"bank_name":"PT. BCA (BANK CENTRAL ASIA) TBK","account_owner":"Ika monika","account_number":"6330686471","withdrawal":223}],"external_shop_info":{"shopee":{"userid":5995033,"username":"ikamonica","description":"kebaya kutubaru  dan kebaya pesta Murah!!\n-Harga ditoko kami pasti lebih murah karna kami tangan pertama\n-Cek stock dulu sebelum melakukan order, sewaktu waktu barang cepat habis, karna kami tidak hanya jual di shopee, karna kami jg ada toko offline\n-Kami mementingkan yg sudah bayar terlebih dahulu\n-Yang sudah melakukan order tapi belum melakukan pembayaran belum bisa dikategorikan membeli\n-Klik penerimaan pesanan, bila sudah diterima\n_Beri review pesanan⭐⭐⭐⭐⭐\n\n\n~Happy Shopping~","name":"Ikazuan_shop","place":"KOTA JAKARTA TIMUR - CAKUNG, DKI JAKARTA, ID","show_official_shop_label":false,"is_shopee_verified":false,"response_rate":"91%","response_time":11444,"total_avg_star":4.603567,"rating_bad":19,"rating_normal":40,"rating_good":659,"total_rating":718,"item_count":384,"ctime":1464026134,"join_at":"2016-05-24T00:55:34+07:00","last_active_time":1558000926,"last_active_at":"2019-05-16T17:02:06+07:00","preparation_time":104455,"following_count":107,"follower_count":2262},"bukalapak":{"id":26600543,"username":"ikazuan_shopp","lapak_desc":"Ikazuan_shopp","lapak_name":"","name":"ika monika","gender":"Perempuan","address":{"province":"DKI Jakarta","city":"Jakarta Timur"},"level":"Pedagang Besar","level_badge_url":"https://www.bukalapak.com/images/badge/seller/xhdpi/level-3.png","verified_user":false,"official":false,"brand":false,"top_merchant":false,"is_seller":true,"premium_user":false,"premium_package":"","delivery_time":"23 jam","rejection":{"rejected":2,"recent_trans":100,"success":98,"percentage":"98%"},"feedbacks":{"positive":119,"negative":9,"total":128,"percentage":"92%"},"joined_at":"2017-02-23T23:06:36.000+07:00","join_at":"2017-02-23T23:06:36Z","last_login":"2019-05-16T17:00:56.000+07:00","last_login_at":"2019-05-16T17:00:56Z","subscriber_amount":32}},"face_match":{"status":"OK","similarity":73.5529968294047},"confidence":{"phone":1,"address":0}}],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 18:00:26 - INFO --> request : {"partnership_id":1,"partnership_name":"Tokopedia","applicant_id":101582,"mobile_number":"6287783164222","password":"R478365KHSFDJtre","confirm_password":"R478365KHSFDJtre","agree_subscribe":"Y","agree_privacy":"Y","email_address":"ikazuan229@gmail.com","salutation":"Mrs.","full_name":"Ika Monika Natalia","ecommerce_name":[{"ecommerce_id":4,"ecommerce_name":"Tokopedia","link_toko":"https:\/\/www.tokopedia.com\/ika-zuan","nama_toko":"ika kebaya"},{"ecommerce_id":3,"ecommerce_name":"shopee","link_toko":"https:\/\/www.tokopedia.com\/ika-zuan","nama_toko":"ika kebaya"}],"epd_lama_berjualan_online":"2016-12-01","epd_nilai_rata_penjualan":15166666,"epd_company_type":4,"seller_province":"DKI Jakarta","seller_kab_kot":"Jakarta Timur","rd_agree_terms":"Y","shipping_from":"Cakung","loan_type1":"Y","loan_type2":"","eld_mlt_id":1,"bpd_company_bank_name_id":2,"bpd_company_bank_account_name":"Ika monika","bpd_company_bank_number":"6330686471","domisili_same_as_ktp":"","bpd_dob":"1982-10-10","bpd_full_name":"Ika Monika Natalia","bpd_domicile_province":"","bpd_domicile_kab_kot":"","bpd_domicile_kecamatan":"","bpd_domicile_kelurahan":"","bpd_domicile_address":"","bpd_domicile_postal_code":"","bpd_domicile_phone":"6287783164222","epd_offline_store_address":"","epd_offline_store_province":"","epd_offline_store_kab_kot":"","epd_offline_store_kecamatan":"","epd_offline_store_kelurahan":"","epd_offline_store_postal_code":"","bpd_ktp_expired":"","bpd_ktp":"3175065010820036","bpd_npwp_no":"31.750.650.1-082.003","bpd_company_desc":"&amp;#34;Kebaya dan Gamis Murah&amp;#34;<br\/>-Harga ditoko kami pasti lebih murah karna kami tangan pertama<br\/>-Cek stock dulu sebelum melakukan order<br\/>","bpd_pob":"Jakarta Timur","right_data":"Y","bpd_company_address":"Kp Waru Doyong","bpd_company_postal_code":"13930","bpd_company_kecamatan":"Cakung","bpd_company_kab_kot":"Jakarta Timur","bpd_company_province":"DKI Jakarta","bpd_company_kelurahan":"","transaction_history":[26,18,12,12,12,11,20,24,40,25,18,38],"cashflow_history":[5930000,3665000,2900000,2615000,2885000,1830000,5380000,6065000,8585000,6025000,4385000,10025000],"ktp_image":"https:\/\/ecs7.tokopedia.net\/microsite-production\/mitra-toppers\/b0fda9f6-6257-4a34-b351-a852d274bbdf_IMG-20190312-WA0002.jpg","ktp_selfie":"https:\/\/ecs7.tokopedia.net\/microsite-production\/mitra-toppers\/83557743-e8a9-46b6-a0d9-56d3b0d2ee1b_IMG-20190312-WA0001.jpg","cap_amount":2000000,"eld_bank_statement":"","eld_rm_name":"","eld_loan_tenor":6,"loan_osf":"Online Seller Financing","eld_loan_reg_date":"2019-05-16 17:18:41"}
+2019-05-16 18:00:26 - INFO --> header_response : {"url":"https:\/\/mobi.investree.id\/mobile\/v1\/partner\/ecommerce\/registration_all","content_type":"text\/html; charset=UTF-8","http_code":200,"header_size":809,"request_size":209,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":6.598377,"namelookup_time":0.000415,"connect_time":0.000857,"pretransfer_time":0.009596,"size_upload":2568,"size_download":20,"speed_download":3,"speed_upload":389,"download_content_length":-1,"upload_content_length":2568,"starttransfer_time":0.010249,"redirect_time":0,"certinfo":[],"primary_ip":"116.206.196.175","redirect_url":""}
+2019-05-16 18:00:26 - INFO --> response : ""
+2019-05-16 18:00:31 - INFO --> data			: {"program_id":"98","start_time":"2019-05-16 17:00:01","end_time":"2019-05-16 18:00:00"}
+2019-05-16 18:00:31 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+18%3A00%3A00&program_id=98&start_time=2019-05-16+17%3A00%3A01
+2019-05-16 18:00:31 - INFO --> Unix-Time 	: 1558004431
+2019-05-16 18:00:31 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1558004431
+2019-05-16 18:00:00
+98
+2019-05-16 17:00:01
+2019-05-16 18:00:31 - INFO --> Signature 	: G+sTHOFaPGx4vJr2gociR688P+s=
+2019-05-16 18:00:31 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+18%3A00%3A00&program_id=98&start_time=2019-05-16+17%3A00%3A01 Data : {"end_time":"2019-05-16 18:00:00","program_id":"98","start_time":"2019-05-16 17:00:01"}
+2019-05-16 18:00:31 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 18:00:36 - INFO --> data			: {"program_id":"99","start_time":"2019-05-16 17:00:01","end_time":"2019-05-16 18:00:00"}
+2019-05-16 18:00:36 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+18%3A00%3A00&program_id=99&start_time=2019-05-16+17%3A00%3A01
+2019-05-16 18:00:36 - INFO --> Unix-Time 	: 1558004436
+2019-05-16 18:00:36 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1558004436
+2019-05-16 18:00:00
+99
+2019-05-16 17:00:01
+2019-05-16 18:00:36 - INFO --> Signature 	: s3P4t0EVWDfgShlKiTFNJou4qLY=
+2019-05-16 18:00:36 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+18%3A00%3A00&program_id=99&start_time=2019-05-16+17%3A00%3A01 Data : {"end_time":"2019-05-16 18:00:00","program_id":"99","start_time":"2019-05-16 17:00:01"}
+2019-05-16 18:00:36 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 18:10:06 - INFO --> data			: {"program_id":"78","start_time":"2019-05-16 17:00:01","end_time":"2019-05-16 18:00:00"}
+2019-05-16 18:10:06 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+18%3A00%3A00&program_id=78&start_time=2019-05-16+17%3A00%3A01
+2019-05-16 18:10:06 - INFO --> Unix-Time 	: 1558005006
+2019-05-16 18:10:06 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1558005006
+2019-05-16 18:00:00
+78
+2019-05-16 17:00:01
+2019-05-16 18:10:06 - INFO --> Signature 	: pUnfHY/0JKLeJhJWRYkk9U7msSw=
+2019-05-16 18:10:06 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+18%3A00%3A00&program_id=78&start_time=2019-05-16+17%3A00%3A01 Data : {"end_time":"2019-05-16 18:00:00","program_id":"78","start_time":"2019-05-16 17:00:01"}
+2019-05-16 18:10:07 - INFO -->  RECV FROM Tokopedia : {"data":[{"application_id":101582,"loan_amount":2000000,"loan_duration":6,"loan_duration_type":"Bulan","program_name":"Online Seller Financing","create_time":"2019-05-16 17:18:41","bank_name":"Investree","loan_purpose":"Modal Usaha","personal_info":{"full_name":"Ika Monika Natalia","gender":"f","birth_place":"Jakarta Timur","birth_date":"10-Oktober-1982","phone_number":"6287783164222","other_phone_number":"082113636117","email":"ikazuan229@gmail.com","marital_status":"Menikah","mother_name":"Nurlela","tkp_email":"ikazuan229@gmail.com"},"ktp":{"ktp_no":"3175065010820036","address":{"full_address":"Kp Waru Doyong","postal_code":"13930","rt":"008","rw":"008","province":"DKI Jakarta","city":"Jakarta Timur","district":"Cakung","ownership":"Keluarga","stay_period":"22"}},"npwp":"31.750.650.1-082.003","domicile":{"full_address":"","postal_code":"","rt":"","rw":"","province":"","city":"","district":""},"relative_info":{"full_name":"ravi sanjaya","birth_place":"Jakarta Timur","birth_date":"19-Oktober-1997","phone_number":"081282237056","relationship":"Kakak / Adik Kandung","mother_name":""},"shop_info":{"business_sector":"Perdagangan Besar dan Eceran","business_code":"513100","economy_sector":"Perdagangan Besar Tekstil, Pakaian Jadi, dan Kulit","date_start":"4-September-2015","shop_type":"Hanya Online","shop_name":"ika kebaya","shop_domain":"https://www.tokopedia.com/ika-zuan","open_since":"December 2016","merchant_type":"Regular Merchant","shipping_from":"Cakung","offline_address":{"full_address":"","postal_code":"","rt":"","rw":"","province":"","city":"","district":""},"description":"\u0026amp;#34;Kebaya dan Gamis Murah\u0026amp;#34;\u003cbr/\u003e-Harga ditoko kami pasti lebih murah karna kami tangan pertama\u003cbr/\u003e-Cek stock dulu sebelum melakukan order\u003cbr/\u003e"},"other_income_source":{"online_main":false,"occupation":"wirausaha","company":"online shop","monthly_income":7000000},"previous_loan":{"type":"","total_amount":0,"installments":0,"remaining":0},"documents":{"ktp":"https://ecs7.tokopedia.net/microsite-production/mitra-toppers/b0fda9f6-6257-4a34-b351-a852d274bbdf_IMG-20190312-WA0002.jpg","verificationPhoto":"https://ecs7.tokopedia.net/microsite-production/mitra-toppers/83557743-e8a9-46b6-a0d9-56d3b0d2ee1b_IMG-20190312-WA0001.jpg","familyCard":"https://ecs7.tokopedia.net/microsite-production/mitra-toppers/466961a5-6840-405b-98ad-f2ea923796b1_IMG-20180625-WA0010.jpeg"},"transaction_history":[26,18,12,12,12,11,20,24,40,25,18,38],"cashflow_history":[5930000,3665000,2900000,2615000,2885000,1830000,5380000,6065000,8585000,6025000,4385000,10025000],"moderation_count":0,"total_transaction":256,"complaint_count":0,"successful_rate":0.9551282051282052,"six_months_average_transaction":15.166666666666666,"reputation_count":{"positive":175,"neutral":16,"negative":9},"bank_account":[{"bank_name":"PT. BCA (BANK CENTRAL ASIA) TBK","account_owner":"Ika monika","account_number":"6330686471","withdrawal":223}],"external_shop_info":{"shopee":{"userid":5995033,"username":"ikamonica","description":"kebaya kutubaru  dan kebaya pesta Murah!!\n-Harga ditoko kami pasti lebih murah karna kami tangan pertama\n-Cek stock dulu sebelum melakukan order, sewaktu waktu barang cepat habis, karna kami tidak hanya jual di shopee, karna kami jg ada toko offline\n-Kami mementingkan yg sudah bayar terlebih dahulu\n-Yang sudah melakukan order tapi belum melakukan pembayaran belum bisa dikategorikan membeli\n-Klik penerimaan pesanan, bila sudah diterima\n_Beri review pesanan⭐⭐⭐⭐⭐\n\n\n~Happy Shopping~","name":"Ikazuan_shop","place":"KOTA JAKARTA TIMUR - CAKUNG, DKI JAKARTA, ID","show_official_shop_label":false,"is_shopee_verified":false,"response_rate":"91%","response_time":11444,"total_avg_star":4.603567,"rating_bad":19,"rating_normal":40,"rating_good":659,"total_rating":718,"item_count":384,"ctime":1464026134,"join_at":"2016-05-24T00:55:34+07:00","last_active_time":1558000926,"last_active_at":"2019-05-16T17:02:06+07:00","preparation_time":104455,"following_count":107,"follower_count":2262},"bukalapak":{"id":26600543,"username":"ikazuan_shopp","lapak_desc":"Ikazuan_shopp","lapak_name":"","name":"ika monika","gender":"Perempuan","address":{"province":"DKI Jakarta","city":"Jakarta Timur"},"level":"Pedagang Besar","level_badge_url":"https://www.bukalapak.com/images/badge/seller/xhdpi/level-3.png","verified_user":false,"official":false,"brand":false,"top_merchant":false,"is_seller":true,"premium_user":false,"premium_package":"","delivery_time":"23 jam","rejection":{"rejected":2,"recent_trans":100,"success":98,"percentage":"98%"},"feedbacks":{"positive":119,"negative":9,"total":128,"percentage":"92%"},"joined_at":"2017-02-23T23:06:36.000+07:00","join_at":"2017-02-23T23:06:36Z","last_login":"2019-05-16T17:00:56.000+07:00","last_login_at":"2019-05-16T17:00:56Z","subscriber_amount":32}},"face_match":{"status":"OK","similarity":73.5529968294047},"confidence":{"phone":1,"address":0}}],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 18:10:12 - INFO --> request : {"partnership_id":1,"partnership_name":"Tokopedia","applicant_id":101582,"mobile_number":"6287783164222","password":"R478365KHSFDJtre","confirm_password":"R478365KHSFDJtre","agree_subscribe":"Y","agree_privacy":"Y","email_address":"ikazuan229@gmail.com","salutation":"Mrs.","full_name":"Ika Monika Natalia","ecommerce_name":[{"ecommerce_id":4,"ecommerce_name":"Tokopedia","link_toko":"https:\/\/www.tokopedia.com\/ika-zuan","nama_toko":"ika kebaya"},{"ecommerce_id":3,"ecommerce_name":"shopee","link_toko":"https:\/\/www.tokopedia.com\/ika-zuan","nama_toko":"ika kebaya"}],"epd_lama_berjualan_online":"2016-12-01","epd_nilai_rata_penjualan":15166666,"epd_company_type":4,"seller_province":"DKI Jakarta","seller_kab_kot":"Jakarta Timur","rd_agree_terms":"Y","shipping_from":"Cakung","loan_type1":"Y","loan_type2":"","eld_mlt_id":1,"bpd_company_bank_name_id":2,"bpd_company_bank_account_name":"Ika monika","bpd_company_bank_number":"6330686471","domisili_same_as_ktp":"","bpd_dob":"1982-10-10","bpd_full_name":"Ika Monika Natalia","bpd_domicile_province":"","bpd_domicile_kab_kot":"","bpd_domicile_kecamatan":"","bpd_domicile_kelurahan":"","bpd_domicile_address":"","bpd_domicile_postal_code":"","bpd_domicile_phone":"6287783164222","epd_offline_store_address":"","epd_offline_store_province":"","epd_offline_store_kab_kot":"","epd_offline_store_kecamatan":"","epd_offline_store_kelurahan":"","epd_offline_store_postal_code":"","bpd_ktp_expired":"","bpd_ktp":"3175065010820036","bpd_npwp_no":"31.750.650.1-082.003","bpd_company_desc":"&amp;#34;Kebaya dan Gamis Murah&amp;#34;<br\/>-Harga ditoko kami pasti lebih murah karna kami tangan pertama<br\/>-Cek stock dulu sebelum melakukan order<br\/>","bpd_pob":"Jakarta Timur","right_data":"Y","bpd_company_address":"Kp Waru Doyong","bpd_company_postal_code":"13930","bpd_company_kecamatan":"Cakung","bpd_company_kab_kot":"Jakarta Timur","bpd_company_province":"DKI Jakarta","bpd_company_kelurahan":"","transaction_history":[26,18,12,12,12,11,20,24,40,25,18,38],"cashflow_history":[5930000,3665000,2900000,2615000,2885000,1830000,5380000,6065000,8585000,6025000,4385000,10025000],"ktp_image":"https:\/\/ecs7.tokopedia.net\/microsite-production\/mitra-toppers\/b0fda9f6-6257-4a34-b351-a852d274bbdf_IMG-20190312-WA0002.jpg","ktp_selfie":"https:\/\/ecs7.tokopedia.net\/microsite-production\/mitra-toppers\/83557743-e8a9-46b6-a0d9-56d3b0d2ee1b_IMG-20190312-WA0001.jpg","cap_amount":2000000,"eld_bank_statement":"","eld_rm_name":"","eld_loan_tenor":6,"loan_osf":"Online Seller Financing","eld_loan_reg_date":"2019-05-16 17:18:41"}
+2019-05-16 18:10:12 - INFO --> header_response : {"url":"https:\/\/mobi.investree.id\/mobile\/v1\/partner\/ecommerce\/registration_all","content_type":"application\/json","http_code":200,"header_size":805,"request_size":209,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":4.90272,"namelookup_time":0.000387,"connect_time":0.000667,"pretransfer_time":0.011144,"size_upload":2568,"size_download":101,"speed_download":20,"speed_upload":523,"download_content_length":-1,"upload_content_length":2568,"starttransfer_time":0.0115,"redirect_time":0,"certinfo":[],"primary_ip":"116.206.196.175","redirect_url":""}
+2019-05-16 18:10:12 - INFO --> response : "{\"status\":\"ERROR\",\"data\":null,\"meta\":{\"code\":500,\"message\":\"Data is exist\",\"debugInfo\":\"\"}}"
+2019-05-16 18:10:17 - INFO --> data			: {"program_id":"98","start_time":"2019-05-16 17:00:01","end_time":"2019-05-16 18:00:00"}
+2019-05-16 18:10:17 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+18%3A00%3A00&program_id=98&start_time=2019-05-16+17%3A00%3A01
+2019-05-16 18:10:17 - INFO --> Unix-Time 	: 1558005017
+2019-05-16 18:10:17 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1558005017
+2019-05-16 18:00:00
+98
+2019-05-16 17:00:01
+2019-05-16 18:10:17 - INFO --> Signature 	: RlPCNvTovxeQIoyzahxyKvKk2oU=
+2019-05-16 18:10:17 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+18%3A00%3A00&program_id=98&start_time=2019-05-16+17%3A00%3A01 Data : {"end_time":"2019-05-16 18:00:00","program_id":"98","start_time":"2019-05-16 17:00:01"}
+2019-05-16 18:10:17 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}
+2019-05-16 18:10:22 - INFO --> data			: {"program_id":"99","start_time":"2019-05-16 17:00:01","end_time":"2019-05-16 18:00:00"}
+2019-05-16 18:10:22 - INFO --> url 			: https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+18%3A00%3A00&program_id=99&start_time=2019-05-16+17%3A00%3A01
+2019-05-16 18:10:22 - INFO --> Unix-Time 	: 1558005022
+2019-05-16 18:10:22 - INFO --> formula 		: GET
+/micro/mt/program/23/applications
+1558005022
+2019-05-16 18:00:00
+99
+2019-05-16 17:00:01
+2019-05-16 18:10:22 - INFO --> Signature 	: ZL5Wr5836gUCJmA2nO9bM5rdInk=
+2019-05-16 18:10:22 - INFO -->  SEND TO Tokopedia : https://www.tokopedia.com/microfinance/micro/mt/program/23/applications?end_time=2019-05-16+18%3A00%3A00&program_id=99&start_time=2019-05-16+17%3A00%3A01 Data : {"end_time":"2019-05-16 18:00:00","program_id":"99","start_time":"2019-05-16 17:00:01"}
+2019-05-16 18:10:22 - INFO -->  RECV FROM Tokopedia : {"data":[],"code":200,"header":{"process_time":0,"messages":null,"reason":"","error_code":""},"message":""}

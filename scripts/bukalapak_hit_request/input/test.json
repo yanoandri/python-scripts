@@ -1,0 +1,82 @@
+{
+    "partner_name": "Bukalapak",
+    "loan_amount": 16000000,
+    "loan_duration": 12,
+    "loan_type": 1,
+    "loan_duration_type": "Bulan",
+    "program_name": "Fast Track Loan",
+    "create_time": "2020-04-24 01:01:37",
+    "personal_info": {
+        "full_name": "Dian Rusdiana",
+        "gender": "m",
+        "birth_place": "kuningan",
+        "birth_date": "16-Mei-1988",
+        "phone_number": "+6287875831072",
+        "email": "rusdiguntenk@gmail.com"
+    },
+    "ktp": {
+        "ktp_no": "3175091605880004",
+        "expired_date": "3000-01-01"
+    },
+    "npwp": "46.839.138.8-009.000",
+    "domicile": {
+        "full_address": "JL. Cibubur II Bulak Ringin No.67",
+        "postal_code": "13720",
+        "province": "DKI Jakarta",
+        "city": "Jakarta Timur",
+        "district": "Ciracas",
+        "sub_district": "Cibubur"
+    },
+    "shop_info": {
+        "shop_name": "ALVARO KOMPUTER",
+        "shop_domain": "dian_rusdi",
+        "seller_desc": "",
+        "open_since": "2015-09-01",
+        "ecommerce_open_since": "\u003e 12 Bulan",
+        "offline_address": {
+            "full_address": "Perum Bambu kuning Blok H2 No.35a, Bojong Gede bogor",
+            "postal_code": "",
+            "province": "",
+            "city": "",
+            "district": "",
+            "sub_district": ""
+        }
+    },
+    "cashflow_history": [{
+        "month": 10,
+        "year": 2019,
+        "value": 6003000
+    }, {
+        "month": 11,
+        "year": 2019,
+        "value": 6889000
+    }, {
+        "month": 12,
+        "year": 2019,
+        "value": 5270200
+    }, {
+        "month": 1,
+        "year": 2020,
+        "value": 9093000
+    }, {
+        "month": 2,
+        "year": 2020,
+        "value": 14719000
+    }, {
+        "month": 3,
+        "year": 2020,
+        "value": 17700000
+    }],
+    "external_loans": [],
+    "rating": "Juragan",
+    "six_months_average_cashflow": 9945700.0,
+    "profit_margin": "60",
+    "bank_account": {
+        "bankid": "2",
+        "account_name": "Dian Rusdiana",
+        "account_number": "6280606535"
+    },
+    "external_shop_info": [{
+        "ecommerce_name": "bukalapak, tokopedia, shopee, facebook, whatsapp"
+    }]
+}
